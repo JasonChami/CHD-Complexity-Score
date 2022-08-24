@@ -1,0 +1,34 @@
+---
+title: "Run CHD Complexity Algorithm"
+author: "Calum Nicholson"
+date: '2022-08-18'
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+``` {r, message = FALSE}
+# Load the diagnosis complexity reference table
+complexity.reference <- readr::read_csv("Diagnosis_Complexity_Reference_Table_20210723.csv")
+
+# Load some sample data
+sample.data <- readr::read_csv("patient_diagnosis_example.csv")
+```
+
+``` {r}
+# load the function to calculate complexity
+source("esc_complexity.R")
+
+# Run the complexity function
+patient.complexity <- esc.complexity(sample.data, complexity.reference)
+```
+
+
+
+
+
+
+
+

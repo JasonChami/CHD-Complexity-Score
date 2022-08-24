@@ -1,0 +1,691 @@
+EPCC_category,EPCC_name,EPCC_code,mild,moderate,severe
+Diagnostic congenital and generic cardiac codes,"Normal heart,",01.01.00,FALSE,FALSE,FALSE
+Diagnostic congenital and generic cardiac codes,"Laevocardia: heart predominantly in left hemithorax,",02.01.03,FALSE,FALSE,FALSE
+Diagnostic congenital and generic cardiac codes,"Normal atrial arrangement (situs), atrioventricular & ventriculo-arterial connections,",01.03.10,FALSE,FALSE,FALSE
+Diagnostic congenital and generic cardiac codes,"Normal atrial arrangement (situs), atrioventricular & ventriculo-arterial connections, Usual atrial arrangement (atrial situs solitus),",01.03.00,FALSE,FALSE,FALSE
+Diagnostic congenital and generic cardiac codes,"Concordant ventriculo-arterial connections,",01.05.00,FALSE,FALSE,FALSE
+Diagnostic congenital and generic cardiac codes,"Innocent murmur,",10.12.01,FALSE,FALSE,FALSE
+Abnormalities of position and connection of heart,"Anomalous position-orientation of heart,",02.01.09,FALSE,FALSE,FALSE
+Abnormalities of position and connection of heart,"Anomalous position-orientation of heart, Dextrocardia: heart predominantly in right hemithorax,",02.01.02,TRUE,FALSE,FALSE
+Abnormalities of position and connection of heart,"Anomalous position-orientation of heart, Midline heart (mesocardia),",02.01.04,FALSE,FALSE,FALSE
+Abnormalities of position and connection of heart,"Position or morphology of thoraco-abdominal organs abnormal,",03.01.09,FALSE,FALSE,FALSE
+Abnormalities of position and connection of heart,"Position or morphology of thoraco-abdominal organs abnormal, Lung anomaly,",03.02.09,FALSE,FALSE,FALSE
+Abnormalities of position and connection of heart,"Position or morphology of thoraco-abdominal organs abnormal, Functionally congenital single lung,",03.02.14,FALSE,FALSE,FALSE
+Abnormalities of position and connection of heart,"Position or morphology of thoraco-abdominal organs abnormal, Tracheobronchial anomaly,",03.03.05,FALSE,FALSE,FALSE
+Abnormalities of position and connection of heart,"Visceral heterotaxy (abnormal arrangement thoraco-abdominal organs),",03.01.02,FALSE,FALSE,FALSE
+Abnormalities of position and connection of heart,"Abnormal atrial arrangement,",01.03.06,FALSE,FALSE,FALSE
+Abnormalities of position and connection of heart,"Abnormal atrial arrangement, Total mirror imagery (situs inversus),",03.01.03,FALSE,FALSE,FALSE
+Abnormalities of position and connection of heart,"Abnormal atrial arrangement, Right isomerism ('asplenia'),",03.01.04,FALSE,FALSE,TRUE
+Abnormalities of position and connection of heart,"Abnormal atrial arrangement, Left isomerism ('polysplenia'),",03.01.05,FALSE,FALSE,TRUE
+Abnormalities of position and connection of heart,"Anomaly of atrioventricular and-or ventriculo-arterial connection(s),",01.03.09,FALSE,FALSE,TRUE
+Abnormalities of position and connection of heart,"Anomaly of atrioventricular and-or ventriculo-arterial connection(s), Double inlet atrioventricular connection (double inlet ventricle),",01.01.14,FALSE,FALSE,TRUE
+Abnormalities of position and connection of heart,"Anomaly of atrioventricular and-or ventriculo-arterial connection(s), Double inlet atrioventricular connection (double inlet ventricle), Double inlet right ventricle,",01.04.03,FALSE,FALSE,TRUE
+Abnormalities of position and connection of heart,"Anomaly of atrioventricular and-or ventriculo-arterial connection(s), Double inlet atrioventricular connection (double inlet ventricle), Double inlet left ventricle,",01.04.04,FALSE,FALSE,TRUE
+Abnormalities of position and connection of heart,"Anomaly of atrioventricular and-or ventriculo-arterial connection(s), Tricuspid atresia,",06.01.01,FALSE,FALSE,TRUE
+Abnormalities of position and connection of heart,"Anomaly of atrioventricular and-or ventriculo-arterial connection(s), Mitral atresia,",06.02.01,FALSE,FALSE,TRUE
+Abnormalities of position and connection of heart,"Anomaly of atrioventricular and-or ventriculo-arterial connection(s), Solitary ventricle of indeterminate morphology,",02.03.05,FALSE,FALSE,TRUE
+Abnormalities of position and connection of heart,"Anomaly of atrioventricular and-or ventriculo-arterial connection(s), Abnormal position or relationship of great vessels,",02.07.04,FALSE,FALSE,TRUE
+Abnormalities of position and connection of heart,"Anomaly of atrioventricular and-or ventriculo-arterial connection(s), Transposition of great arteries (discordant ventriculo-arterial connections) (TGA),",01.05.01,FALSE,FALSE,TRUE
+Abnormalities of position and connection of heart,"Anomaly of atrioventricular and-or ventriculo-arterial connection(s), Transposition of great arteries (TGA) (concordant atrioventricular & discordant ventriculo-arterial connections) & intact ventricular septum,",01.01.02,FALSE,FALSE,TRUE
+Abnormalities of position and connection of heart,"Anomaly of atrioventricular and-or ventriculo-arterial connection(s), Congenitally corrected transposition of great arteries (discordant atrioventricular & ventriculo-arterial connections),",01.01.03,FALSE,FALSE,TRUE
+Abnormalities of position and connection of heart,"Anomaly of atrioventricular and-or ventriculo-arterial connection(s), Double outlet right ventricle,",01.01.04,FALSE,FALSE,TRUE
+Abnormalities of position and connection of heart,"Anomaly of atrioventricular and-or ventriculo-arterial connection(s), Double outlet right ventricle: Fallot type (subaortic or doubly committed ventricular septal defect & pulmonary stenosis),",01.01.17,FALSE,FALSE,TRUE
+Abnormalities of position and connection of heart,"Anomaly of atrioventricular and-or ventriculo-arterial connection(s), Double outlet right ventricle: transposition type (subpulmonary ventricular septal defect),",01.01.18,FALSE,FALSE,TRUE
+Abnormalities of position and connection of heart,"Anomaly of atrioventricular and-or ventriculo-arterial connection(s), Double outlet right ventricle: with non-committed ventricular septal defect,",01.01.19,FALSE,FALSE,TRUE
+Abnormalities of position and connection of heart,"Anomaly of atrioventricular and-or ventriculo-arterial connection(s), Double outlet right ventricle: subaortic or doubly committed ventricular septal defect without pulmonary stenosis ('VSD type'),",01.01.40,FALSE,FALSE,TRUE
+Abnormalities of position and connection of heart,"Anomaly of atrioventricular and-or ventriculo-arterial connection(s), Double outlet right ventricle: with intact ventricular septum,",01.01.24,FALSE,FALSE,TRUE
+Abnormalities of position and connection of heart,"Anomaly of atrioventricular and-or ventriculo-arterial connection(s), Double outlet left ventricle,",01.05.03,FALSE,FALSE,TRUE
+Abnormalities of position and connection of heart,"Anomaly of atrioventricular and-or ventriculo-arterial connection(s), Common arterial trunk (truncus arteriosus),",09.01.01,FALSE,FALSE,TRUE
+Abnormalities of position and connection of heart,"Anomaly of atrioventricular and-or ventriculo-arterial connection(s), Concordant VA connections with parallel great arteries (anatomically corrected malposition),",01.05.10,FALSE,FALSE,FALSE
+Tetralogy of Fallot and variants,"Tetralogy of Fallot,",01.01.01,FALSE,TRUE,FALSE
+Tetralogy of Fallot and variants,"Pulmonary atresia + ventricular septal defect (VSD) (including Fallot type),",01.01.06,FALSE,FALSE,TRUE
+Tetralogy of Fallot and variants,"Pulmonary atresia + ventricular septal defect (VSD) + systemic-to-pulmonary collateral artery(ies) (MAPCA(s)),",01.01.25,FALSE,FALSE,TRUE
+Tetralogy of Fallot and variants,"Absent pulmonary valve syndrome: Fallot-type,",09.05.25,FALSE,TRUE,FALSE
+Tetralogy of Fallot and variants,"Solitary arterial trunk (absent intrapericardial pulmonary arteries),",09.07.26,FALSE,FALSE,TRUE
+Tetralogy of Fallot and variants,"Major systemic-to-pulmonary collateral artery(ies) (MAPCA(s)),",09.08.01,FALSE,FALSE,FALSE
+Tetralogy of Fallot and variants,"Systemic-to-pulmonary collateral arter(ies) (MAPCA(s)) stenosis(es),",09.20.25,FALSE,FALSE,FALSE
+Abnormalities of great veins,"Superior caval vein (SVC) abnormality,",04.01.00,FALSE,FALSE,FALSE
+Abnormalities of great veins,"Superior caval vein (SVC) abnormality, Left superior caval vein (SVC) persisting to coronary sinus,",04.01.01,FALSE,FALSE,FALSE
+Abnormalities of great veins,"Inferior caval vein (IVC) abnormality,",04.03.00,FALSE,FALSE,FALSE
+Abnormalities of great veins,"Inferior caval vein (IVC) abnormality, Interrupted inferior caval vein (IVC) with absent suprarenal segment and azygos continuation,",04.03.10,FALSE,FALSE,FALSE
+Abnormalities of great veins,"Hepatic vein abnormality,",04.02.00,FALSE,FALSE,FALSE
+Abnormalities of great veins,"Congenital anomaly of systemic vein(s),",04.05.00,FALSE,FALSE,FALSE
+Abnormalities of great veins,"Systemic venovenous collateral(s),",04.00.06,FALSE,FALSE,FALSE
+Abnormalities of great veins,"Pulmonary vein abnormality,",04.08.00,FALSE,FALSE,FALSE
+Abnormalities of great veins,"Pulmonary vein abnormality, Pulmonary vein stenosis,",04.08.91,FALSE,FALSE,FALSE
+Abnormalities of great veins,"Pulmonary vein abnormality, Totally anomalous pulmonary venous connection,",04.08.05,FALSE,TRUE,FALSE
+Abnormalities of great veins,"Pulmonary vein abnormality, Totally anomalous pulmonary venous connection, Totally anomalous pulmonary venous connections: supracardiac,",04.06.00,FALSE,TRUE,FALSE
+Abnormalities of great veins,"Pulmonary vein abnormality, Totally anomalous pulmonary venous connection, Totally anomalous pulmonary venous connections: intracardiac,",04.08.10,FALSE,TRUE,FALSE
+Abnormalities of great veins,"Pulmonary vein abnormality, Totally anomalous pulmonary venous connection, Totally anomalous pulmonary venous connections: infracardiac,",04.08.20,FALSE,TRUE,FALSE
+Abnormalities of great veins,"Pulmonary vein abnormality, Totally anomalous pulmonary venous connection, Totally anomalous pulmonary venous connections: mixed,",04.08.30,FALSE,TRUE,FALSE
+Abnormalities of great veins,"Pulmonary vein abnormality, Partially anomalous pulmonary venous connection(s),",04.07.01,FALSE,TRUE,FALSE
+Abnormalities of great veins,"Pulmonary vein abnormality, Partially anomalous pulmonary venous connection(s), Partially anomalous pulmonary venous connection of Scimitar type,",01.01.16,FALSE,TRUE,FALSE
+Abnormalities of great veins,"Pulmonary vein abnormality, Obstructed pulmonary venous pathway or connection,",04.08.06,FALSE,FALSE,FALSE
+Abnormalities of great veins,"Coronary sinus abnormality,",04.04.00,FALSE,FALSE,FALSE
+Abnormalities of atriums and atrial septum,"Right atrial abnormality,",05.01.00,FALSE,FALSE,FALSE
+Abnormalities of atriums and atrial septum,"Left atrial abnormality,",05.02.00,FALSE,FALSE,FALSE
+Abnormalities of atriums and atrial septum,"Left atrial abnormality, Cor triatriatum (divided left atrium),",05.02.01,FALSE,FALSE,FALSE
+Abnormalities of atriums and atrial septum,"Intact atrial septum (no interatrial communication),",05.03.10,FALSE,FALSE,FALSE
+Abnormalities of atriums and atrial septum,"Atrial septum abnormality,",05.03.00,TRUE,TRUE,TRUE
+Abnormalities of atriums and atrial septum,"Atrial septum abnormality, Patent foramen ovale (PFO),",05.03.01,TRUE,FALSE,FALSE
+Abnormalities of atriums and atrial septum,"Atrial septum abnormality, Interatrial communication ('ASD'),",05.04.01,TRUE,TRUE,TRUE
+Abnormalities of atriums and atrial septum,"Atrial septum abnormality, Atrial septal defect (ASD) within oval fossa (secundum),",05.04.02,TRUE,TRUE,TRUE
+Abnormalities of atriums and atrial septum,"Atrial septum abnormality, Spontaneous closure of atrial septal defect (ASD) within oval fossa (secundum),",05.04.03,FALSE,FALSE,FALSE
+Abnormalities of atriums and atrial septum,"Atrial septum abnormality, Sinus venosus defect (ASD),",05.05.00,FALSE,TRUE,FALSE
+Abnormalities of atriums and atrial septum,"Atrial septum abnormality, Common atrium (virtual absence of atrial septum),",05.06.01,FALSE,TRUE,FALSE
+Abnormalities of atriums and atrial septum,"Atrial septum abnormality, Interatrial communication (ASD) through coronary sinus orifice,",05.05.03,FALSE,TRUE,FALSE
+Abnormalities of atrioventricular valves and atrioventricular septal defect,"Tricuspid valvar abnormality,",06.01.00,TRUE,TRUE,TRUE
+Abnormalities of atrioventricular valves and atrioventricular septal defect,"Tricuspid valvar abnormality, Tricuspid regurgitation,",06.01.91,FALSE,FALSE,FALSE
+Abnormalities of atrioventricular valves and atrioventricular septal defect,"Tricuspid valvar abnormality, Tricuspid regurgitation, Congenital tricuspid regurgitation,",06.01.25,FALSE,FALSE,FALSE
+Abnormalities of atrioventricular valves and atrioventricular septal defect,"Tricuspid valvar abnormality, Tricuspid valvar dysplasia,",06.01.03,FALSE,FALSE,FALSE
+Abnormalities of atrioventricular valves and atrioventricular septal defect,"Tricuspid valvar abnormality, Straddling tricuspid valve,",06.01.09,FALSE,FALSE,FALSE
+Abnormalities of atrioventricular valves and atrioventricular septal defect,"Tricuspid valvar abnormality, Ebstein malformation of tricuspid valve,",06.01.34,FALSE,TRUE,FALSE
+Abnormalities of atrioventricular valves and atrioventricular septal defect,"Tricuspid valvar abnormality, Tricuspid stenosis,",06.01.92,FALSE,FALSE,FALSE
+Abnormalities of atrioventricular valves and atrioventricular septal defect,"Mitral stenosis,",06.02.92,TRUE,TRUE,FALSE
+Abnormalities of atrioventricular valves and atrioventricular septal defect,"Mitral valvar abnormality,",06.02.00,TRUE,TRUE,FALSE
+Abnormalities of atrioventricular valves and atrioventricular septal defect,"Mitral valvar abnormality, Mitral regurgitation,",06.02.91,TRUE,FALSE,FALSE
+Abnormalities of atrioventricular valves and atrioventricular septal defect,"Mitral valvar abnormality, Mitral regurgitation, Congenital mitral regurgitation,",06.02.25,TRUE,FALSE,FALSE
+Abnormalities of atrioventricular valves and atrioventricular septal defect,"Mitral valvar abnormality, Straddling mitral valve,",06.02.09,FALSE,TRUE,FALSE
+Abnormalities of atrioventricular valves and atrioventricular septal defect,"Mitral valvar abnormality, Supravalvar or intravalvar mitral ring,",05.02.02,FALSE,TRUE,FALSE
+Abnormalities of atrioventricular valves and atrioventricular septal defect,"Mitral valvar abnormality, Mitral valvar prolapse,",06.02.35,TRUE,FALSE,FALSE
+Abnormalities of atrioventricular valves and atrioventricular septal defect,"Mitral valvar abnormality, True cleft of mitral leaflet (without atrioventricular septal defect),",06.02.36,FALSE,TRUE,FALSE
+Abnormalities of atrioventricular valves and atrioventricular septal defect,"Mitral valvar abnormality, Mitral valve stenosis,",06.02.93,TRUE,FALSE,FALSE
+Abnormalities of atrioventricular valves and atrioventricular septal defect,"Mitral valvar abnormality, Mitral valve stenosis, Congenital mitral valvar stenosis,",06.02.07,TRUE,FALSE,FALSE
+Abnormalities of atrioventricular valves and atrioventricular septal defect,"Mitral subvalvar apparatus abnormality,",06.02.12,TRUE,FALSE,FALSE
+Abnormalities of atrioventricular valves and atrioventricular septal defect,"Mitral subvalvar apparatus abnormality, Mitral subvalvar stenosis,",06.02.13,TRUE,FALSE,FALSE
+Abnormalities of atrioventricular valves and atrioventricular septal defect,"Mitral subvalvar apparatus abnormality, Parachute malformation of mitral valve,",06.02.56,FALSE,TRUE,FALSE
+Abnormalities of atrioventricular valves and atrioventricular septal defect,"Atrioventricular septal defect (AVSD),",06.06.00,FALSE,TRUE,FALSE
+Abnormalities of atrioventricular valves and atrioventricular septal defect,"Atrioventricular septal defect (AVSD), Partial atrioventricular septal defect (AVSD) with isolated atrial component (primum ASD),",06.06.01,FALSE,TRUE,FALSE
+Abnormalities of atrioventricular valves and atrioventricular septal defect,"Atrioventricular septal defect (AVSD), Atrioventricular septal defect (AVSD) with isolated ventricular component,",06.06.08,FALSE,TRUE,FALSE
+Abnormalities of atrioventricular valves and atrioventricular septal defect,"Atrioventricular septal defect (AVSD), Complete atrioventricular septal defect (AVSD) with atrial and ventricular components,",06.06.09,FALSE,TRUE,FALSE
+Abnormalities of atrioventricular valves and atrioventricular septal defect,"Atrioventricular septal defect (AVSD), Intermediate atrioventricular septal defect (AVSD) with atrial and ventricular components and separate atrioventricular valvar orifices,",06.06.10,FALSE,TRUE,FALSE
+Abnormalities of atrioventricular valves and atrioventricular septal defect,"Atrioventricular septal defect (AVSD), Atrioventricular septal defect (AVSD) with ventricular imbalance,",06.07.26,FALSE,TRUE,TRUE
+Abnormalities of atrioventricular valves and atrioventricular septal defect,"Atypical atrioventricular valve in atrioventricular septal defect (AVSD),",06.05.01,FALSE,TRUE,FALSE
+Abnormalities of atrioventricular valves and atrioventricular septal defect,"Atypical atrioventricular valve in atrioventricular septal defect (AVSD), Atrioventricular septal defect (AVSD) atrioventricular valvar regurgitation,",06.05.06,FALSE,TRUE,FALSE
+Abnormalities of atrioventricular valves and atrioventricular septal defect,"Atypical atrioventricular valve in atrioventricular septal defect (AVSD), Deficient mural-lateral leaflet of left ventricular component of common atrioventricular valve (left atrioventricular valve),",06.05.98,FALSE,TRUE,FALSE
+Abnormalities of atrioventricular valves and atrioventricular septal defect,"Atrioventricular septal defect and Tetralogy of Fallot,",01.01.20,FALSE,TRUE,FALSE
+Abnormalities of ventricles and ventricular septum,"Functionally univentricular heart,",01.01.22,FALSE,FALSE,TRUE
+Abnormalities of ventricles and ventricular septum,"Ventricular imbalance: dominant left ventricle + hypoplastic right ventricle,",07.08.41,FALSE,FALSE,TRUE
+Abnormalities of ventricles and ventricular septum,"Ventricular imbalance: dominant right ventricle + hypoplastic left ventricle,",07.08.42,FALSE,FALSE,TRUE
+Abnormalities of ventricles and ventricular septum,"Right ventricular abnormality,",07.01.00,FALSE,FALSE,FALSE
+Abnormalities of ventricles and ventricular septum,"Right ventricular abnormality, Right ventricular aneurysm,",07.01.14,FALSE,FALSE,FALSE
+Abnormalities of ventricles and ventricular septum,"Right ventricular abnormality, Right ventricular hypoplasia,",07.02.00,FALSE,FALSE,FALSE
+Abnormalities of ventricles and ventricular septum,"Right ventricular abnormality, Double chambered right ventricle,",07.03.01,FALSE,TRUE,FALSE
+Abnormalities of ventricles and ventricular septum,"Right ventricular outflow tract obstruction,",07.05.01,FALSE,TRUE,FALSE
+Abnormalities of ventricles and ventricular septum,"Left ventricular abnormality,",07.06.00,FALSE,FALSE,FALSE
+Abnormalities of ventricles and ventricular septum,"Left ventricular abnormality, Left ventricular hypoplasia,",07.07.00,FALSE,FALSE,FALSE
+Abnormalities of ventricles and ventricular septum,"Left ventricular abnormality, Left ventricular aneurysm,",07.06.13,FALSE,FALSE,FALSE
+Abnormalities of ventricles and ventricular septum,"Hypoplastic left heart syndrome,",01.01.09,FALSE,FALSE,TRUE
+Abnormalities of ventricles and ventricular septum,"Left ventricular outflow tract obstruction,",07.09.01,FALSE,TRUE,FALSE
+Abnormalities of ventricles and ventricular septum,"Left heart obstruction at multiple sites (including Shone syndrome),",01.01.33,FALSE,TRUE,FALSE
+Abnormalities of ventricles and ventricular septum,"Intact ventricular septum,",07.21.00,FALSE,FALSE,FALSE
+Abnormalities of ventricles and ventricular septum,"Ventricular septal defect (VSD),",07.10.00,TRUE,TRUE,TRUE
+Abnormalities of ventricles and ventricular septum,"Ventricular septal defect (VSD), Single ventricular septal defect (VSD),",07.15.05,TRUE,FALSE,FALSE
+Abnormalities of ventricles and ventricular septum,"Ventricular septal defect (VSD), Ventricular septal defect(s): haemodynamically insignificant,",07.15.01,TRUE,FALSE,FALSE
+Abnormalities of ventricles and ventricular septum,"Ventricular septal defect (VSD), Multiple ventricular septal defect (VSD)s,",07.15.04,FALSE,TRUE,FALSE
+Abnormalities of ventricles and ventricular septum,"Ventricular septal defect (VSD), Perimembranous ventricular septal defect (VSD),",07.10.01,TRUE,TRUE,FALSE
+Abnormalities of ventricles and ventricular septum,"Ventricular septal defect (VSD), Ventricular septal defect (VSD) with malaligned outlet septum,",07.10.12,FALSE,TRUE,FALSE
+Abnormalities of ventricles and ventricular septum,"Ventricular septal defect (VSD), Inlet ventricular septal defect (VSD),",07.14.05,FALSE,TRUE,FALSE
+Abnormalities of ventricles and ventricular septum,"Ventricular septal defect (VSD), Muscular ventricular septal defect (VSD),",07.11.01,TRUE,TRUE,FALSE
+Abnormalities of ventricles and ventricular septum,"Ventricular septal defect (VSD), Subarterial (outlet) ventricular septal defect (VSD),",07.12.00,TRUE,TRUE,FALSE
+Abnormalities of ventricles and ventricular septum,"Ventricular septal defect (VSD), Subarterial (outlet) ventricular septal defect (VSD), Doubly committed subarterial ventricular septal defect (VSD),",07.12.01,TRUE,TRUE,FALSE
+Abnormalities of ventricles and ventricular septum,"Ventricular septal defect (VSD), Communication between left ventricle + right atrium (Gerbode defect),",07.14.02,TRUE,TRUE,FALSE
+Abnormalities of ventricles and ventricular septum,"Ventricular septal defect (VSD), Spontaneous closure of ventricular septal defect (VSD),",07.16.01,TRUE,FALSE,FALSE
+Abnormalities of ventricles and ventricular septum,"Ventricular septal abnormality,",07.20.00,FALSE,FALSE,FALSE
+Abnormalities of ventricles and ventricular septum,"Ventricular septal abnormality, Aneurysm of membranous septum,",07.20.01,FALSE,FALSE,FALSE
+Abnormalities of ventriculo-arterial valves and great arteries,"Aortopulmonary window,",09.04.01,FALSE,TRUE,TRUE
+Abnormalities of ventriculo-arterial valves and great arteries,"Pulmonary artery from ascending aorta (hemitruncus),",09.09.08,FALSE,FALSE,TRUE
+Abnormalities of ventriculo-arterial valves and great arteries,"Truncal valvar abnormality,",09.02.00,FALSE,FALSE,TRUE
+Abnormalities of ventriculo-arterial valves and great arteries,"Truncal valvar abnormality, Truncal valvar regurgitation,",09.02.03,FALSE,FALSE,TRUE
+Abnormalities of ventriculo-arterial valves and great arteries,"Pulmonary stenosis,",09.05.92,TRUE,TRUE,FALSE
+Abnormalities of ventriculo-arterial valves and great arteries,"Pulmonary stenosis, Subpulmonary stenosis,",07.05.30,TRUE,TRUE,FALSE
+Abnormalities of ventriculo-arterial valves and great arteries,"Pulmonary valvar abnormality,",09.05.00,TRUE,TRUE,TRUE
+Abnormalities of ventriculo-arterial valves and great arteries,"Pulmonary valvar abnormality, Pulmonary valvar stenosis,",09.05.01,FALSE,TRUE,FALSE
+Abnormalities of ventriculo-arterial valves and great arteries,"Pulmonary valvar abnormality, Pulmonary valvar stenosis, Congenital pulmonary valvar stenosis,",09.05.04,FALSE,TRUE,FALSE
+Abnormalities of ventriculo-arterial valves and great arteries,"Pulmonary valvar abnormality, Pulmonary regurgitation,",09.05.91,FALSE,FALSE,FALSE
+Abnormalities of ventriculo-arterial valves and great arteries,"Pulmonary valvar abnormality, Pulmonary regurgitation, Congenital pulmonary regurgitation,",09.05.22,FALSE,FALSE,FALSE
+Abnormalities of ventriculo-arterial valves and great arteries,"Pulmonary atresia,",09.05.11,FALSE,FALSE,TRUE
+Abnormalities of ventriculo-arterial valves and great arteries,"Pulmonary atresia, Pulmonary atresia: imperforate valve,",09.05.12,FALSE,FALSE,TRUE
+Abnormalities of ventriculo-arterial valves and great arteries,"Pulmonary atresia, Pulmonary atresia + intact ventricular septum,",01.01.07,FALSE,FALSE,TRUE
+Abnormalities of ventriculo-arterial valves and great arteries,"Coronary fistulas within right ventricle ('sinusoidal'),",09.45.11,FALSE,FALSE,FALSE
+Abnormalities of ventriculo-arterial valves and great arteries,"Right ventricle dependent coronary circulation,",09.46.06,FALSE,FALSE,TRUE
+Abnormalities of ventriculo-arterial valves and great arteries,"Pulmonary trunk (MPA) abnormality,",09.07.00,FALSE,FALSE,FALSE
+Abnormalities of ventriculo-arterial valves and great arteries,"Pulmonary trunk (MPA) abnormality, Supravalvar pulmonary trunk stenosis,",09.07.13,FALSE,TRUE,FALSE
+Abnormalities of ventriculo-arterial valves and great arteries,"Pulmonary trunk (MPA) abnormality, Pulmonary trunk hypoplasia,",09.07.11,FALSE,TRUE,FALSE
+Abnormalities of ventriculo-arterial valves and great arteries,"Pulmonary arterial abnormality,",09.10.00,FALSE,FALSE,FALSE
+Abnormalities of ventriculo-arterial valves and great arteries,"Pulmonary arterial abnormality, Pulmonary arterial stenosis,",09.10.01,FALSE,TRUE,FALSE
+Abnormalities of ventriculo-arterial valves and great arteries,"Pulmonary arterial abnormality, Pulmonary arterial stenosis, Central pulmonary arterial stenosis or hypoplasia: proximal to hilar bifurcation,",09.10.07,FALSE,TRUE,FALSE
+Abnormalities of ventriculo-arterial valves and great arteries,"Pulmonary arterial abnormality, Pulmonary arterial stenosis, Peripheral pulmonary arterial stenoses or hypoplasia: at-beyond hilar bifurcation,",09.10.06,FALSE,TRUE,FALSE
+Abnormalities of ventriculo-arterial valves and great arteries,"Pulmonary arterial abnormality, Pulmonary arterial stenosis, Right pulmonary arterial stenosis,",09.10.25,FALSE,TRUE,FALSE
+Abnormalities of ventriculo-arterial valves and great arteries,"Pulmonary arterial abnormality, Pulmonary arterial stenosis, Left pulmonary arterial stenosis,",09.10.26,FALSE,TRUE,FALSE
+Abnormalities of ventriculo-arterial valves and great arteries,"Pulmonary arterial abnormality, Pulmonary arterial hypoplasia,",09.10.11,FALSE,TRUE,FALSE
+Abnormalities of ventriculo-arterial valves and great arteries,"Pulmonary arterial abnormality, Discontinuous (non-confluent) right and left pulmonary arteries,",09.10.10,FALSE,FALSE,TRUE
+Abnormalities of ventriculo-arterial valves and great arteries,"Pulmonary arterial abnormality, Pulmonary arterial aneurysm,",09.10.44,FALSE,FALSE,FALSE
+Abnormalities of ventriculo-arterial valves and great arteries,"Aortic stenosis,",09.15.92,TRUE,TRUE,FALSE
+Abnormalities of ventriculo-arterial valves and great arteries,"Aortic stenosis, Subaortic stenosis,",07.09.00,FALSE,TRUE,FALSE
+Abnormalities of ventriculo-arterial valves and great arteries,"Aortic stenosis, Subaortic stenosis, Subaortic stenosis due to fibromuscular shelf,",07.09.03,FALSE,TRUE,FALSE
+Abnormalities of ventriculo-arterial valves and great arteries,"Aortic valvar abnormality,",09.15.00,TRUE,FALSE,FALSE
+Abnormalities of ventriculo-arterial valves and great arteries,"Aortic valvar abnormality, Aortic valvar stenosis,",09.15.13,TRUE,FALSE,FALSE
+Abnormalities of ventriculo-arterial valves and great arteries,"Aortic valvar abnormality, Aortic valvar stenosis, Congenital aortic valvar stenosis,",09.15.01,TRUE,FALSE,FALSE
+Abnormalities of ventriculo-arterial valves and great arteries,"Aortic valvar abnormality, Eccentric opening of tricuspid aortic valve,",09.15.12,TRUE,FALSE,FALSE
+Abnormalities of ventriculo-arterial valves and great arteries,"Aortic valvar abnormality, Aortic regurgitation,",09.15.91,TRUE,FALSE,FALSE
+Abnormalities of ventriculo-arterial valves and great arteries,"Aortic valvar abnormality, Aortic regurgitation, Congenital aortic regurgitation,",09.15.07,TRUE,FALSE,FALSE
+Abnormalities of ventriculo-arterial valves and great arteries,"Aortic valvar abnormality, Bicuspid aortic valve,",09.15.22,TRUE,FALSE,FALSE
+Abnormalities of ventriculo-arterial valves and great arteries,"Aortic valvar abnormality, Aortic atresia,",09.15.03,FALSE,FALSE,TRUE
+Abnormalities of ventriculo-arterial valves and great arteries,"Aortic valvar abnormality, Aortic valvar prolapse,",09.15.30,TRUE,FALSE,FALSE
+Abnormalities of ventriculo-arterial valves and great arteries,"Aortic abnormality,",07.09.31,TRUE,TRUE,FALSE
+Abnormalities of ventriculo-arterial valves and great arteries,"Aortic abnormality, Ascending aorta abnormality,",09.16.10,FALSE,FALSE,FALSE
+Abnormalities of ventriculo-arterial valves and great arteries,"Aortic abnormality, Ascending aorta hypoplasia,",09.16.02,FALSE,TRUE,FALSE
+Abnormalities of ventriculo-arterial valves and great arteries,"Aortic abnormality, Supravalvar aortic stenosis,",09.16.00,FALSE,TRUE,FALSE
+Abnormalities of ventriculo-arterial valves and great arteries,"Aortic abnormality, Ascending aorta dilation,",09.16.09,FALSE,FALSE,FALSE
+Abnormalities of ventriculo-arterial valves and great arteries,"Aortic abnormality, Ascending aorta dilation, Ascending aorta dilation associated with Marfan syndrome,",09.16.05,FALSE,TRUE,FALSE
+Abnormalities of ventriculo-arterial valves and great arteries,"Aortic sinus of Valsalva aneurysm,",09.18.01,FALSE,TRUE,FALSE
+Abnormalities of ventriculo-arterial valves and great arteries,"Aortoventricular tunnel,",09.17.01,FALSE,TRUE,FALSE
+Abnormalities of ventriculo-arterial valves and great arteries,"Aortoventricular tunnel, Aorto: left ventricular tunnel,",09.17.02,FALSE,TRUE,FALSE
+Abnormalities of ventriculo-arterial valves and great arteries,"Aortic arch abnormality,",09.28.00,FALSE,FALSE,FALSE
+Abnormalities of ventriculo-arterial valves and great arteries,"Aortic arch abnormality, Right aortic arch,",09.28.15,FALSE,FALSE,FALSE
+Abnormalities of ventriculo-arterial valves and great arteries,"Aortic arch abnormality, Aortic coarctation,",09.29.01,FALSE,TRUE,FALSE
+Abnormalities of ventriculo-arterial valves and great arteries,"Aortic arch abnormality, Aortic arch hypoplasia (tubular),",09.29.11,FALSE,TRUE,FALSE
+Abnormalities of ventriculo-arterial valves and great arteries,"Aortic arch abnormality, Interrupted aortic arch,",09.29.31,FALSE,FALSE,TRUE
+Abnormalities of ventriculo-arterial valves and great arteries,"Aortic arch abnormality, Aortic arch branch abnormality,",09.30.00,FALSE,FALSE,FALSE
+Abnormalities of ventriculo-arterial valves and great arteries,"Aortic arch abnormality, Aortic arch branch abnormality, Aberrant origin right subclavian artery,",09.30.02,FALSE,FALSE,FALSE
+Abnormalities of ventriculo-arterial valves and great arteries,"Aortic arch abnormality, Aortic arch branch abnormality, Aberrant origin left subclavian artery,",09.30.04,FALSE,FALSE,FALSE
+Abnormalities of ventriculo-arterial valves and great arteries,"Vascular ring,",09.31.00,FALSE,FALSE,FALSE
+Abnormalities of ventriculo-arterial valves and great arteries,"Vascular ring, Double aortic arch,",09.28.09,FALSE,FALSE,FALSE
+Abnormalities of ventriculo-arterial valves and great arteries,"Vascular ring, Anomalous origin of left pulmonary artery from right pulmonary artery (pulmonary arterial sling),",09.09.06,FALSE,FALSE,FALSE
+Abnormalities of ventriculo-arterial valves and great arteries,"Descending aorta dilation,",09.28.16,FALSE,FALSE,FALSE
+Abnormalities of ventriculo-arterial valves and great arteries,"Descending-abdominal aorta hypoplasia (middle aortic syndrome),",09.29.16,FALSE,FALSE,FALSE
+"Abnormalities of coronary arteries, arterial duct and pericardium; arteriovenous fistulae","Coronary arterial abnormality,",09.46.00,FALSE,FALSE,FALSE
+"Abnormalities of coronary arteries, arterial duct and pericardium; arteriovenous fistulae","Coronary arterial abnormality, Anomalous origin of coronary artery from pulmonary arterial tree,",09.41.01,FALSE,TRUE,FALSE
+"Abnormalities of coronary arteries, arterial duct and pericardium; arteriovenous fistulae","Coronary arterial abnormality, Coronary fistula,",09.45.01,FALSE,FALSE,FALSE
+"Abnormalities of coronary arteries, arterial duct and pericardium; arteriovenous fistulae","Coronary arterial abnormality, Anomalous aortic origin or course of coronary artery,",09.42.00,FALSE,TRUE,FALSE
+"Abnormalities of coronary arteries, arterial duct and pericardium; arteriovenous fistulae","Coronary arterial abnormality, Anomalous aortic origin of coronary artery (AAOCA),",09.42.20,FALSE,TRUE,FALSE
+"Abnormalities of coronary arteries, arterial duct and pericardium; arteriovenous fistulae","Coronary arterial abnormality, Aberrant course of coronary artery: across right ventricular outflow tract,",09.43.18,FALSE,FALSE,FALSE
+"Abnormalities of coronary arteries, arterial duct and pericardium; arteriovenous fistulae","Coronary arterial abnormality, Intramural proximal coronary arterial course,",09.43.05,FALSE,FALSE,FALSE
+"Abnormalities of coronary arteries, arterial duct and pericardium; arteriovenous fistulae","Coronary arterial abnormality, Coronary arterial aneurysm(s),",09.46.01,FALSE,FALSE,FALSE
+"Abnormalities of coronary arteries, arterial duct and pericardium; arteriovenous fistulae","Arterial duct (ductus arteriosus) abnormality,",09.27.00,FALSE,FALSE,FALSE
+"Abnormalities of coronary arteries, arterial duct and pericardium; arteriovenous fistulae","Arterial duct (ductus arteriosus) abnormality, Patent arterial duct (PDA),",09.27.21,TRUE,TRUE,FALSE
+"Abnormalities of coronary arteries, arterial duct and pericardium; arteriovenous fistulae","Arteriovenous fistula (malformation),",09.19.01,FALSE,FALSE,FALSE
+"Abnormalities of coronary arteries, arterial duct and pericardium; arteriovenous fistulae","Arteriovenous fistula (malformation), Pulmonary arteriovenous fistula (malformation),",09.19.05,FALSE,FALSE,FALSE
+"Abnormalities of coronary arteries, arterial duct and pericardium; arteriovenous fistulae","Distal systemic arterial abnormality,",09.20.20,FALSE,FALSE,FALSE
+"Abnormalities of coronary arteries, arterial duct and pericardium; arteriovenous fistulae","Pericardial abnormality,",10.01.00,FALSE,FALSE,FALSE
+"Abnormalities of coronary arteries, arterial duct and pericardium; arteriovenous fistulae","Cardiac abnormality,",01.01.39,FALSE,FALSE,FALSE
+"Abnormalities of coronary arteries, arterial duct and pericardium; arteriovenous fistulae","Vascular abnormality,",01.01.60,FALSE,FALSE,FALSE
+"Abnormalities of coronary arteries, arterial duct and pericardium; arteriovenous fistulae","Aneurysm,",01.01.61,FALSE,FALSE,FALSE
+"Diagnostic comorbidities: hereditary, neonatal and non-cardiac codes","Multiple congenital malformations,",14.06.01,FALSE,FALSE,FALSE
+"Diagnostic comorbidities: hereditary, neonatal and non-cardiac codes","Family history of congenital heart lesion,",10.23.01,FALSE,FALSE,FALSE
+"Diagnostic comorbidities: hereditary, neonatal and non-cardiac codes","Family history of disorder with cardiac involvement,",10.23.03,FALSE,FALSE,FALSE
+"Diagnostic comorbidities: hereditary, neonatal and non-cardiac codes","Family history of sudden death,",10.23.11,FALSE,FALSE,FALSE
+"Diagnostic comorbidities: hereditary, neonatal and non-cardiac codes","Maternal teratogen associated with congenital heart disease,",14.05.01,FALSE,FALSE,FALSE
+"Diagnostic comorbidities: hereditary, neonatal and non-cardiac codes","Maternal teratogen or disease potentially associated with congenital heart disease,",14.05.00,FALSE,FALSE,FALSE
+"Diagnostic comorbidities: hereditary, neonatal and non-cardiac codes","Maternal systemic lupus erythematosus (SLE),",10.23.02,FALSE,FALSE,FALSE
+"Diagnostic comorbidities: hereditary, neonatal and non-cardiac codes","Maternally derived fetal disease or syndrome potentially with associated heart disease,",14.05.40,FALSE,FALSE,FALSE
+Neonatal disorders or abnormalities,"Neonatal disorder,",10.15.00,FALSE,FALSE,FALSE
+Neonatal disorders or abnormalities,"Neonatal disorder, Infant of diabetic mother,",10.22.03,FALSE,FALSE,FALSE
+Neonatal disorders or abnormalities,"Neonatal disorder, Heart muscle disease in infant of diabetic mother,",10.07.71,FALSE,FALSE,FALSE
+Neonatal disorders or abnormalities,"Neonatal disorder, Premature birth,",10.22.02,FALSE,FALSE,FALSE
+Neonatal disorders or abnormalities,"Neonatal disorder, Premature birth, Premature birth 32-35 weeks,",10.22.05,FALSE,FALSE,FALSE
+Neonatal disorders or abnormalities,"Neonatal disorder, Premature birth, Premature birth less than 32 weeks,",10.22.06,FALSE,FALSE,FALSE
+Neonatal disorders or abnormalities,"Neonatal disorder, Meconium aspiration,",10.15.12,FALSE,FALSE,FALSE
+Neonatal disorders or abnormalities,"Neonatal disorder, Necrotising enterocolitis,",10.15.05,FALSE,FALSE,FALSE
+Neonatal disorders or abnormalities,"Transient myocardial ischaemia,",10.15.10,FALSE,FALSE,FALSE
+Neonatal disorders or abnormalities,"Persistent pulmonary hypertension of the newborn (PFC),",10.15.01,FALSE,FALSE,FALSE
+Chromosomal anomalies and other syndromes,"Chromosomal anomaly,",14.01.01,FALSE,FALSE,FALSE
+Chromosomal anomalies and other syndromes,"Chromosomal anomaly, Trisomy 21: Down’s syndrome,",14.01.02,FALSE,FALSE,FALSE
+Chromosomal anomalies and other syndromes,"Chromosomal anomaly, 45XO: Turner’s syndrome,",14.01.05,FALSE,FALSE,FALSE
+Chromosomal anomalies and other syndromes,"Chromosomal anomaly, 22q11 microdeletion,",14.01.21,FALSE,FALSE,FALSE
+Chromosomal anomalies and other syndromes,"Chromosomal anomaly, 22q11 microdeletion, 22q11 microdeletion with full DiGeorge sequence (including immune dysfunction),",14.02.06,FALSE,FALSE,FALSE
+Chromosomal anomalies and other syndromes,"Chromosomal anomaly, Trisomy 18: Edwards' syndrome,",14.01.03,FALSE,FALSE,FALSE
+Chromosomal anomalies and other syndromes,"Chromosomal anomaly, Trisomy 13: Patau's syndrome,",14.01.04,FALSE,FALSE,FALSE
+Chromosomal anomalies and other syndromes,"Hereditary disorder potentially with associated heart disease,",10.23.04,FALSE,FALSE,FALSE
+Chromosomal anomalies and other syndromes,"Hereditary disorder potentially with associated heart disease, Pompe’s disease: glycogen storage disease type IIa,",14.02.21,FALSE,FALSE,FALSE
+Chromosomal anomalies and other syndromes,"Hereditary disorder potentially with associated heart disease, Friedreich’s ataxia,",14.02.10,FALSE,FALSE,FALSE
+Chromosomal anomalies and other syndromes,"Hereditary disorder potentially with associated heart disease, Muscular dystrophy,",14.02.58,FALSE,FALSE,FALSE
+Chromosomal anomalies and other syndromes,"Hereditary disorder potentially with associated heart disease, Duchenne’s muscular dystrophy,",14.02.34,FALSE,FALSE,FALSE
+Chromosomal anomalies and other syndromes,"Hereditary disorder potentially with associated heart disease, Marfan syndrome,",14.02.17,FALSE,FALSE,FALSE
+Chromosomal anomalies and other syndromes,"Hereditary disorder potentially with associated heart disease, Ehlers-Danlos syndrome,",14.02.62,FALSE,FALSE,FALSE
+Chromosomal anomalies and other syndromes,"Hereditary disorder potentially with associated heart disease, Loeys-Dietz Syndrome (transforming growth factor beta receptor (TGFBR) gene mutation),",14.04.85,FALSE,FALSE,FALSE
+Chromosomal anomalies and other syndromes,"Hereditary disorder potentially with associated heart disease, Noonan syndrome,",14.02.19,FALSE,FALSE,FALSE
+Chromosomal anomalies and other syndromes,"Hereditary disorder potentially with associated heart disease, Tuberous sclerosis,",14.02.28,FALSE,FALSE,FALSE
+Chromosomal anomalies and other syndromes,"Hereditary disorder potentially with associated heart disease, Williams syndrome (infantile hypercalcaemia),",14.02.30,FALSE,FALSE,FALSE
+Chromosomal anomalies and other syndromes,"Hereditary disorder potentially with associated heart disease, Alagille syndrome: arteriohepatic dysplasia,",14.02.66,FALSE,FALSE,FALSE
+Chromosomal anomalies and other syndromes,"Fetal rubella syndrome,",14.02.32,FALSE,FALSE,FALSE
+Chromosomal anomalies and other syndromes,"Syndrome-association potentially with cardiac involvement,",14.02.00,FALSE,FALSE,FALSE
+Chromosomal anomalies and other syndromes,"Dyslipidaemia,",10.19.01,FALSE,FALSE,FALSE
+Chromosomal anomalies and other syndromes,"Dyslipidaemia, Hypercholesterolaemia,",10.19.11,FALSE,FALSE,FALSE
+Chromosomal anomalies and other syndromes,"Dyslipidaemia, Hypercholesterolaemia, Familial hypercholesterolaemia,",10.19.02,FALSE,FALSE,FALSE
+Non-cardiac anomalies and diseases associated with heart anomalies,"Hereditary-non-cardiac abnormality not apparent,",10.23.00,FALSE,FALSE,FALSE
+Non-cardiac anomalies and diseases associated with heart anomalies,"Noncardiac abnormality potentially with associated heart disease,",14.03.00,FALSE,FALSE,FALSE
+Non-cardiac anomalies and diseases associated with heart anomalies,"Noncardiac abnormality potentially with associated heart disease, Spleen absent (asplenia),",03.07.03,FALSE,FALSE,FALSE
+Non-cardiac anomalies and diseases associated with heart anomalies,"Noncardiac abnormality potentially with associated heart disease, Multiple spleens (polysplenia),",03.07.04,FALSE,FALSE,FALSE
+Non-cardiac anomalies and diseases associated with heart anomalies,"Cystic fibrosis,",14.03.06,FALSE,FALSE,FALSE
+Non-cardiac anomalies and diseases associated with heart anomalies,"Major anomaly of gastrointestinal system,",14.05.50,FALSE,FALSE,FALSE
+Non-cardiac anomalies and diseases associated with heart anomalies,"Major anomaly of gastrointestinal system, Tracheo-oesophageal fistula,",14.03.08,FALSE,FALSE,FALSE
+Non-cardiac anomalies and diseases associated with heart anomalies,"Major anomaly of gastrointestinal system, Congenital diaphragmatic hernia,",14.03.07,FALSE,FALSE,FALSE
+Non-cardiac anomalies and diseases associated with heart anomalies,"Major anomaly of gastrointestinal system, Omphalocoele,",14.03.10,FALSE,FALSE,FALSE
+Non-cardiac anomalies and diseases associated with heart anomalies,"Major anomaly of gastrointestinal system, Duodenal stenosis/atresia,",14.03.11,FALSE,FALSE,FALSE
+Non-cardiac anomalies and diseases associated with heart anomalies,"Gastro-oesophageal reflux disease (GORD),",14.03.09,FALSE,FALSE,FALSE
+Non-cardiac anomalies and diseases associated with heart anomalies,"Intestines malrotated,",03.06.03,FALSE,FALSE,FALSE
+Non-cardiac anomalies and diseases associated with heart anomalies,"Kidney failure,",15.82.10,FALSE,FALSE,FALSE
+Non-cardiac anomalies and diseases associated with heart anomalies,"Renal abnormality,",14.03.23,FALSE,FALSE,FALSE
+Non-cardiac anomalies and diseases associated with heart anomalies,"Cerebral anomaly,",14.03.91,FALSE,FALSE,FALSE
+Non-cardiac anomalies and diseases associated with heart anomalies,"Anoxic-ischaemic encephalopathy,",14.03.72,FALSE,FALSE,FALSE
+Non-cardiac anomalies and diseases associated with heart anomalies,"Microcephaly,",14.03.33,FALSE,FALSE,FALSE
+Non-cardiac anomalies and diseases associated with heart anomalies,"Psychomotor developmental delay,",14.03.05,FALSE,FALSE,FALSE
+Non-cardiac anomalies and diseases associated with heart anomalies,"Transient ischaemic attack: less than 24 hours (TIA),",14.03.44,FALSE,FALSE,FALSE
+Non-cardiac anomalies and diseases associated with heart anomalies,"Reversible ischaemic neurologic deficit: 24-72 hours (RIND),",14.03.97,FALSE,FALSE,FALSE
+Non-cardiac anomalies and diseases associated with heart anomalies,"Cerebrovascular accident (stroke),",14.03.42,FALSE,FALSE,FALSE
+Non-cardiac anomalies and diseases associated with heart anomalies,"Meningitis,",14.05.65,FALSE,FALSE,FALSE
+Non-cardiac anomalies and diseases associated with heart anomalies,"Migraine,",14.04.46,FALSE,FALSE,FALSE
+Non-cardiac anomalies and diseases associated with heart anomalies,"Diver's decompression sickness,",14.04.47,FALSE,FALSE,FALSE
+Non-cardiac anomalies and diseases associated with heart anomalies,"Choanal atresia,",14.03.47,FALSE,FALSE,FALSE
+Non-cardiac anomalies and diseases associated with heart anomalies,"Cleft lip or palate,",14.04.12,FALSE,FALSE,FALSE
+Non-cardiac anomalies and diseases associated with heart anomalies,"Kyphoscoliosis,",14.04.09,FALSE,FALSE,FALSE
+Non-cardiac anomalies and diseases associated with heart anomalies,"Anterior chest wall (pectus) deformity,",14.04.14,FALSE,FALSE,FALSE
+Non-cardiac anomalies and diseases associated with heart anomalies,"Anterior chest wall (pectus) deformity, Pectus carinatum,",14.04.04,FALSE,FALSE,FALSE
+Non-cardiac anomalies and diseases associated with heart anomalies,"Anterior chest wall (pectus) deformity, Pectus excavatum,",14.04.05,FALSE,FALSE,FALSE
+Non-cardiac anomalies and diseases associated with heart anomalies,"Congenital coagulation disorder,",14.03.28,FALSE,FALSE,FALSE
+Non-cardiac anomalies and diseases associated with heart anomalies,"Connective tissue disease,",14.03.92,FALSE,FALSE,FALSE
+Non-cardiac anomalies and diseases associated with heart anomalies,"Sickle cell disease,",14.03.21,FALSE,FALSE,FALSE
+Non-cardiac anomalies and diseases associated with heart anomalies,"Von Willebrand disease,",14.04.90,FALSE,FALSE,FALSE
+Non-cardiac anomalies and diseases associated with heart anomalies,"Non-cardiothoracic-vascular abnormality,",14.03.04,FALSE,FALSE,FALSE
+Non-cardiac anomalies and diseases associated with heart anomalies,"Thoracic-mediastinal abnormality,",14.03.29,FALSE,FALSE,FALSE
+Rheumatic and infective heart disease,"Acute rheumatic fever,",10.05.01,FALSE,FALSE,FALSE
+Rheumatic and infective heart disease,"Rheumatic fever with cardiac involvement,",10.05.21,FALSE,FALSE,FALSE
+Rheumatic and infective heart disease,"Rheumatic valvar disease,",10.05.30,FALSE,FALSE,FALSE
+Rheumatic and infective heart disease,"Rheumatic valvar disease, Rheumatic mitral valvar disease,",10.05.31,FALSE,FALSE,FALSE
+Rheumatic and infective heart disease,"Rheumatic valvar disease, Rheumatic aortic valvar disease,",10.05.33,FALSE,FALSE,FALSE
+Rheumatic and infective heart disease,"Endocarditis,",10.06.00,FALSE,FALSE,FALSE
+Rheumatic and infective heart disease,"Infective endocarditis,",10.06.01,FALSE,FALSE,FALSE
+Rheumatic and infective heart disease,"Infective endocarditis, Bacterial endocarditis,",10.06.41,FALSE,FALSE,FALSE
+Rheumatic and infective heart disease,"Infective endocarditis, Postprocedural endocarditis,",10.06.64,FALSE,FALSE,FALSE
+Rheumatic and infective heart disease,"Heart abscess,",10.06.20,FALSE,FALSE,FALSE
+Rheumatic and infective heart disease,"Infectious myocarditis,",10.07.01,FALSE,FALSE,FALSE
+Rheumatic and infective heart disease,"Infectious myocarditis, Viral myocarditis,",10.07.03,FALSE,FALSE,FALSE
+Rheumatic and infective heart disease,"Infectious myocarditis, Trypanosomal myocarditis (Chagas' disease),",10.07.08,FALSE,FALSE,FALSE
+Rheumatic and infective heart disease,"Infectious pericarditis,",10.08.01,FALSE,FALSE,FALSE
+Rheumatic and infective heart disease,"Infectious pericarditis, Viral pericarditis,",10.08.03,FALSE,FALSE,FALSE
+Rheumatic and infective heart disease,"Infectious pericarditis, Bacterial pericarditis,",10.08.04,FALSE,FALSE,FALSE
+Great vein and atrial acquired abnormalities,"Systemic vein abnormality: acquired,",10.30.00,FALSE,FALSE,FALSE
+Great vein and atrial acquired abnormalities,"Systemic vein abnormality: acquired, Systemic vein obstruction,",10.30.09,FALSE,FALSE,FALSE
+Great vein and atrial acquired abnormalities,"Superior caval vein (SVC) abnormality: acquired,",10.31.01,FALSE,FALSE,FALSE
+Great vein and atrial acquired abnormalities,"Superior caval vein (SVC) abnormality: acquired, Postprocedural superior caval vein (SVC) complication,",15.04.01,FALSE,FALSE,FALSE
+Great vein and atrial acquired abnormalities,"Inferior caval vein (IVC) abnormality - acquired,",10.31.21,FALSE,FALSE,FALSE
+Great vein and atrial acquired abnormalities,"Inferior caval vein (IVC) abnormality - acquired, Postprocedural inferior caval vein (IVC) complication,",15.04.05,FALSE,FALSE,FALSE
+Great vein and atrial acquired abnormalities,"Pulmonary venous abnormality: acquired,",10.24.00,FALSE,FALSE,FALSE
+Great vein and atrial acquired abnormalities,"Pulmonary venous abnormality: acquired, Postprocedural pulmonary vein complication,",15.05.01,FALSE,FALSE,FALSE
+Great vein and atrial acquired abnormalities,"Pulmonary venous abnormality: acquired, Pulmonary venous obstruction,",15.05.03,FALSE,FALSE,FALSE
+Great vein and atrial acquired abnormalities,"Postprocedural major vein complication,",15.04.34,FALSE,FALSE,FALSE
+Great vein and atrial acquired abnormalities,"Postprocedural major vein complication, Postprocedural femoral vein complication,",15.04.15,FALSE,FALSE,FALSE
+Great vein and atrial acquired abnormalities,"Right atrial abnormality: acquired,",15.10.10,FALSE,FALSE,FALSE
+Great vein and atrial acquired abnormalities,"Right atrial abnormality: acquired, Postprocedural right atrial complication,",15.10.11,FALSE,FALSE,FALSE
+Great vein and atrial acquired abnormalities,"Right atrial abnormality: acquired, Obstruction of right atrial conduit (including total cavopulmonary connection),",15.10.13,FALSE,FALSE,FALSE
+Great vein and atrial acquired abnormalities,"Left atrial abnormality: acquired,",15.10.20,FALSE,FALSE,FALSE
+Great vein and atrial acquired abnormalities,"Left atrial abnormality: acquired, Postprocedural left atrial complication,",15.10.21,FALSE,FALSE,FALSE
+Great vein and atrial acquired abnormalities,"Atrial septum abnormality: acquired,",10.17.40,FALSE,FALSE,FALSE
+Great vein and atrial acquired abnormalities,"Atrial septum abnormality: acquired, Postprocedural atrial septum complication,",15.10.61,FALSE,FALSE,FALSE
+Great vein and atrial acquired abnormalities,"Atrial septum abnormality: acquired, Residual interatrial communication ('ASD'),",15.10.63,FALSE,FALSE,FALSE
+Great vein and atrial acquired abnormalities,"Atrial septum abnormality: acquired, Postoperative interatrial communication,",15.10.79,FALSE,FALSE,FALSE
+Great vein and atrial acquired abnormalities,"Ineffective balloon atrial septostomy,",15.10.66,FALSE,FALSE,FALSE
+Great vein and atrial acquired abnormalities,"Platypnoea-orthodeoxia syndrome,",10.17.50,FALSE,FALSE,FALSE
+Acquired valvar and atrioventricular septal defect abnormalities,"Heart valvar abnormality: acquired,",10.32.00,FALSE,FALSE,FALSE
+Acquired valvar and atrioventricular septal defect abnormalities,"Prosthetic valve failure,",10.33.00,FALSE,FALSE,FALSE
+Acquired valvar and atrioventricular septal defect abnormalities,"Tricuspid valvar abnormality: acquired,",10.32.01,FALSE,FALSE,FALSE
+Acquired valvar and atrioventricular septal defect abnormalities,"Tricuspid valvar abnormality: acquired, Postprocedural tricuspid valvar complication,",15.11.00,FALSE,FALSE,FALSE
+Acquired valvar and atrioventricular septal defect abnormalities,"Tricuspid valvar abnormality: acquired, Residual tricuspid regurgitation,",15.11.03,FALSE,FALSE,FALSE
+Acquired valvar and atrioventricular septal defect abnormalities,"Tricuspid valvar abnormality: acquired, Tricuspid valvar prosthesis complication,",15.11.08,FALSE,FALSE,FALSE
+Acquired valvar and atrioventricular septal defect abnormalities,"Mitral valvar abnormality: acquired,",10.33.01,FALSE,FALSE,FALSE
+Acquired valvar and atrioventricular septal defect abnormalities,"Mitral valvar abnormality: acquired, Mitral stenosis: acquired,",10.33.02,FALSE,FALSE,FALSE
+Acquired valvar and atrioventricular septal defect abnormalities,"Mitral valvar abnormality: acquired, Mitral stenosis: acquired, Mitral valvar stenosis: recurrent,",10.33.03,FALSE,FALSE,FALSE
+Acquired valvar and atrioventricular septal defect abnormalities,"Mitral valvar abnormality: acquired, Mitral regurgitation: acquired,",10.33.04,FALSE,FALSE,FALSE
+Acquired valvar and atrioventricular septal defect abnormalities,"Mitral valvar abnormality: acquired, Mitral regurgitation: acquired, Mitral regurgitation: recurrent,",10.33.06,FALSE,FALSE,FALSE
+Acquired valvar and atrioventricular septal defect abnormalities,"Mitral valvar abnormality: acquired, Postprocedural mitral valvar complication,",15.12.00,FALSE,FALSE,FALSE
+Acquired valvar and atrioventricular septal defect abnormalities,"Mitral valvar abnormality: acquired, Residual mitral valvar stenosis,",15.12.01,FALSE,FALSE,FALSE
+Acquired valvar and atrioventricular septal defect abnormalities,"Mitral valvar abnormality: acquired, Residual mitral regurgitation,",15.12.03,FALSE,FALSE,FALSE
+Acquired valvar and atrioventricular septal defect abnormalities,"Mitral valvar abnormality: acquired, Mitral valvar prosthesis complication,",15.12.09,FALSE,FALSE,FALSE
+Acquired valvar and atrioventricular septal defect abnormalities,"Truncal valvar abnormality: acquired,",10.37.01,FALSE,FALSE,FALSE
+Acquired valvar and atrioventricular septal defect abnormalities,"Truncal valvar abnormality: acquired, Residual truncal regurgitation,",15.25.03,FALSE,FALSE,FALSE
+Acquired valvar and atrioventricular septal defect abnormalities,"Common arterial trunk (truncus) abnormality: acquired,",10.51.01,FALSE,FALSE,FALSE
+Acquired valvar and atrioventricular septal defect abnormalities,"Common arterial trunk (truncus) abnormality: acquired, Postprocedural common arterial trunk complication,",15.25.31,FALSE,FALSE,FALSE
+Acquired valvar and atrioventricular septal defect abnormalities,"Pulmonary valvar abnormality: acquired,",10.35.01,FALSE,FALSE,FALSE
+Acquired valvar and atrioventricular septal defect abnormalities,"Pulmonary valvar abnormality: acquired, Pulmonary valvar stenosis: acquired,",10.35.02,FALSE,FALSE,FALSE
+Acquired valvar and atrioventricular septal defect abnormalities,"Pulmonary valvar abnormality: acquired, Pulmonary valvar stenosis: acquired, Pulmonary valvar stenosis: recurrent,",10.35.03,FALSE,FALSE,FALSE
+Acquired valvar and atrioventricular septal defect abnormalities,"Pulmonary valvar abnormality: acquired, Pulmonary regurgitation: acquired,",10.35.04,FALSE,FALSE,FALSE
+Acquired valvar and atrioventricular septal defect abnormalities,"Pulmonary valvar abnormality: acquired, Pulmonary valvar atresia: acquired,",09.05.15,FALSE,FALSE,FALSE
+Acquired valvar and atrioventricular septal defect abnormalities,"Pulmonary valvar abnormality: acquired, Postprocedural pulmonary valvar complication,",15.30.00,FALSE,FALSE,FALSE
+Acquired valvar and atrioventricular septal defect abnormalities,"Pulmonary valvar abnormality: acquired, Residual pulmonary valvar stenosis,",15.30.01,FALSE,FALSE,FALSE
+Acquired valvar and atrioventricular septal defect abnormalities,"Pulmonary valvar abnormality: acquired, Residual pulmonary regurgitation,",15.30.03,FALSE,FALSE,FALSE
+Acquired valvar and atrioventricular septal defect abnormalities,"Pulmonary valvar abnormality: acquired, Pulmonary valvar prosthesis complication,",15.30.08,FALSE,FALSE,FALSE
+Acquired valvar and atrioventricular septal defect abnormalities,"Aortic valvar abnormality: acquired,",10.36.01,FALSE,FALSE,FALSE
+Acquired valvar and atrioventricular septal defect abnormalities,"Aortic valvar abnormality: acquired, Aortic valvar stenosis: acquired,",10.36.02,FALSE,FALSE,FALSE
+Acquired valvar and atrioventricular septal defect abnormalities,"Aortic valvar abnormality: acquired, Aortic valvar stenosis: acquired, Aortic valvar stenosis: recurrent,",10.36.03,FALSE,FALSE,FALSE
+Acquired valvar and atrioventricular septal defect abnormalities,"Aortic valvar abnormality: acquired, Aortic regurgitation: acquired,",10.36.04,FALSE,FALSE,FALSE
+Acquired valvar and atrioventricular septal defect abnormalities,"Aortic valvar abnormality: acquired, Aortic regurgitation: acquired, Aortic regurgitation: recurrent,",10.36.06,FALSE,FALSE,FALSE
+Acquired valvar and atrioventricular septal defect abnormalities,"Aortic valvar abnormality: acquired, Postprocedural aortic valvar complication,",15.35.00,FALSE,FALSE,FALSE
+Acquired valvar and atrioventricular septal defect abnormalities,"Aortic valvar abnormality: acquired, Residual aortic valvar stenosis,",15.35.01,FALSE,FALSE,FALSE
+Acquired valvar and atrioventricular septal defect abnormalities,"Aortic valvar abnormality: acquired, Residual aortic regurgitation,",15.35.03,FALSE,FALSE,FALSE
+Acquired valvar and atrioventricular septal defect abnormalities,"Aortic valvar abnormality: acquired, Aortic valvar prosthesis complication,",15.35.08,FALSE,FALSE,FALSE
+Acquired valvar and atrioventricular septal defect abnormalities,"Postprocedural atrioventricular septal defect complication,",15.16.00,FALSE,FALSE,FALSE
+Acquired valvar and atrioventricular septal defect abnormalities,"Postprocedural atrioventricular septal defect complication, Residual ventricular component of atrioventricular septal defect,",15.16.02,FALSE,FALSE,FALSE
+Acquired valvar and atrioventricular septal defect abnormalities,"Atrioventricular valvar abnormality in atrioventricular septal defect (AVSD): acquired,",10.34.60,FALSE,FALSE,FALSE
+Acquired valvar and atrioventricular septal defect abnormalities,"Atrioventricular valvar abnormality in atrioventricular septal defect (AVSD): acquired, Left atrioventricular valvar regurgitation: acquired,",10.34.44,FALSE,FALSE,FALSE
+Acquired valvar and atrioventricular septal defect abnormalities,"Atrioventricular valvar abnormality in atrioventricular septal defect (AVSD): acquired, Residual common atrioventricular valvar regurgitation,",15.13.02,FALSE,FALSE,FALSE
+Acquired valvar and atrioventricular septal defect abnormalities,"Atrioventricular valvar abnormality in atrioventricular septal defect (AVSD): acquired, Postprocedural right atrioventricular valvar complication,",15.14.00,FALSE,FALSE,FALSE
+Acquired valvar and atrioventricular septal defect abnormalities,"Atrioventricular valvar abnormality in atrioventricular septal defect (AVSD): acquired, Postprocedural left atrioventricular valvar complication,",15.15.00,FALSE,FALSE,FALSE
+Acquired ventricular and ventricular septal abnormalities,"Ventricular dyssynchrony,",07.00.01,FALSE,FALSE,FALSE
+Acquired ventricular and ventricular septal abnormalities,"Right ventricular abnormality: acquired,",10.16.00,FALSE,FALSE,FALSE
+Acquired ventricular and ventricular septal abnormalities,"Right ventricular abnormality: acquired, Right ventricular dysfunction,",07.01.11,FALSE,FALSE,FALSE
+Acquired ventricular and ventricular septal abnormalities,"Right ventricular abnormality: acquired, Right ventricular-congestive heart failure,",10.16.08,FALSE,FALSE,FALSE
+Acquired ventricular and ventricular septal abnormalities,"Right ventricular abnormality: acquired, Postprocedural right ventricular complication,",15.20.01,FALSE,FALSE,FALSE
+Acquired ventricular and ventricular septal abnormalities,"Postprocedural right ventricular outflow tract complication,",15.20.21,FALSE,FALSE,FALSE
+Acquired ventricular and ventricular septal abnormalities,"Right ventricular outflow tract obstruction: acquired,",10.16.16,FALSE,FALSE,FALSE
+Acquired ventricular and ventricular septal abnormalities,"Right ventricular outflow tract obstruction: acquired, Aneurysm of right ventricular outflow tract patch,",15.20.25,FALSE,FALSE,FALSE
+Acquired ventricular and ventricular septal abnormalities,"Right ventricular outflow tract obstruction: acquired, Residual right ventricular outflow tract obstruction,",15.20.23,FALSE,FALSE,FALSE
+Acquired ventricular and ventricular septal abnormalities,"Left ventricular abnormality: acquired,",10.16.40,FALSE,FALSE,FALSE
+Acquired ventricular and ventricular septal abnormalities,"Left ventricular abnormality: acquired, Left ventricular dysfunction,",07.06.10,FALSE,FALSE,FALSE
+Acquired ventricular and ventricular septal abnormalities,"Left ventricular abnormality: acquired, Left ventricular failure,",10.16.47,FALSE,FALSE,FALSE
+Acquired ventricular and ventricular septal abnormalities,"Left ventricular abnormality: acquired, Postprocedural left ventricular complication,",15.21.01,FALSE,FALSE,FALSE
+Acquired ventricular and ventricular septal abnormalities,"Postprocedural left ventricular outflow tract complication,",15.21.21,FALSE,FALSE,FALSE
+Acquired ventricular and ventricular septal abnormalities,"Postprocedural left ventricular outflow tract complication, Recurrent left ventricular outflow tract obstruction,",10.16.46,FALSE,FALSE,FALSE
+Acquired ventricular and ventricular septal abnormalities,"Postprocedural left ventricular outflow tract complication, Residual left ventricular outflow tract obstruction,",15.21.22,FALSE,FALSE,FALSE
+Acquired ventricular and ventricular septal abnormalities,"Narrowing of constructed intraventricular tunnel: acquired,",10.16.81,FALSE,FALSE,FALSE
+Acquired ventricular and ventricular septal abnormalities,"Subaortic stenosis: acquired,",10.16.86,FALSE,FALSE,FALSE
+Acquired ventricular and ventricular septal abnormalities,"Subaortic stenosis: acquired, Subaortic stenosis in functionally univentricular heart: acquired,",10.16.82,FALSE,FALSE,FALSE
+Acquired ventricular and ventricular septal abnormalities,"Subaortic stenosis: acquired, Residual subaortic stenosis in functionally univentricular heart,",15.20.75,FALSE,FALSE,FALSE
+Acquired ventricular and ventricular septal abnormalities,"Subpulmonary stenosis: acquired,",10.16.88,FALSE,FALSE,FALSE
+Acquired ventricular and ventricular septal abnormalities,"Subpulmonary stenosis: acquired, Subpulmonary stenosis in functionally univentricular heart: acquired,",10.16.83,FALSE,FALSE,FALSE
+Acquired ventricular and ventricular septal abnormalities,"Subpulmonary stenosis: acquired, Residual subpulmonary stenosis in functionally univentricular heart,",15.20.76,FALSE,FALSE,FALSE
+Acquired ventricular and ventricular septal abnormalities,"Abnormality associated with ventricular septum: acquired,",10.16.60,FALSE,FALSE,FALSE
+Acquired ventricular and ventricular septal abnormalities,"Abnormality associated with ventricular septum: acquired, Postmyocardial infarct ventricular septal defect (VSD),",10.16.62,FALSE,FALSE,FALSE
+Acquired ventricular and ventricular septal abnormalities,"Abnormality associated with ventricular septum: acquired, Residual ventricular septal defect (VSD),",15.22.02,FALSE,FALSE,FALSE
+Cardiomyopathy and heart muscle diseases,"Myocarditis,",10.07.90,FALSE,FALSE,FALSE
+Cardiomyopathy and heart muscle diseases,"Myocardial failure in end stage congenital heart disease,",10.07.40,FALSE,FALSE,FALSE
+Cardiomyopathy and heart muscle diseases,"Cardiomyopathy,",10.10.01,FALSE,FALSE,FALSE
+Cardiomyopathy and heart muscle diseases,"Cardiomyopathy, Ventricular myocardial noncompaction cardiomyopathy,",07.08.50,FALSE,TRUE,FALSE
+Cardiomyopathy and heart muscle diseases,"Cardiomyopathy, Hypertrophic cardiomyopathy,",10.10.20,FALSE,FALSE,FALSE
+Cardiomyopathy and heart muscle diseases,"Cardiomyopathy, Dilated cardiomyopathy,",10.10.25,FALSE,FALSE,FALSE
+Cardiomyopathy and heart muscle diseases,"Cardiomyopathy, Arrhythmogenic right ventricular cardiomyopathy,",07.01.10,FALSE,FALSE,FALSE
+Cardiomyopathy and heart muscle diseases,"Cardiomyopathy, Endocardial fibroelastosis,",10.10.12,FALSE,FALSE,FALSE
+Cardiomyopathy and heart muscle diseases,"Cardiomyopathy, Restrictive cardiomyopathy,",10.10.10,FALSE,FALSE,FALSE
+Cardiomyopathy and heart muscle diseases,"Cardiomyopathy, Restrictive cardiomyopathy, Idiopathic restrictive cardiomyopathy,",10.10.11,FALSE,FALSE,FALSE
+Cardiomyopathy and heart muscle diseases,"Cardiomyopathy, Infiltrative cardiomyopathy,",10.10.13,FALSE,FALSE,FALSE
+Cardiomyopathy and heart muscle diseases,"Drug induced heart muscle disease,",10.07.05,FALSE,FALSE,FALSE
+Cardiomyopathy and heart muscle diseases,"Nutritional heart muscle disease,",10.07.61,FALSE,FALSE,FALSE
+Cardiomyopathy and heart muscle diseases,"Heart muscle disease in collagen vascular/ connective tissue disorder,",10.07.81,FALSE,FALSE,FALSE
+Acquired pulmonary arterial abnormalities,"Pulmonary arterial disease: acquired,",10.13.50,FALSE,FALSE,FALSE
+Acquired pulmonary arterial abnormalities,"Pulmonary arterial disease: acquired, Right pulmonary arterial stenosis: acquired,",10.13.68,FALSE,FALSE,FALSE
+Acquired pulmonary arterial abnormalities,"Pulmonary arterial disease: acquired, Left pulmonary arterial stenosis: acquired,",10.13.69,FALSE,FALSE,FALSE
+Acquired pulmonary arterial abnormalities,"Pulmonary arterial disease: acquired, Postprocedural pulmonary trunk complication,",15.32.01,FALSE,FALSE,FALSE
+Acquired pulmonary arterial abnormalities,"Pulmonary arterial disease: acquired, Postprocedural right pulmonary artery complication,",15.32.21,FALSE,FALSE,FALSE
+Acquired pulmonary arterial abnormalities,"Pulmonary arterial disease: acquired, Postprocedural left pulmonary artery complication,",15.32.41,FALSE,FALSE,FALSE
+Acquired pulmonary arterial abnormalities,"Pulmonary arterial disease: acquired, Residual right pulmonary artery stenosis,",15.32.23,FALSE,FALSE,FALSE
+Acquired pulmonary arterial abnormalities,"Pulmonary arterial disease: acquired, Residual left pulmonary artery stenosis,",15.32.43,FALSE,FALSE,FALSE
+Acquired pulmonary arterial abnormalities,"Pulmonary arterial hypertension,",10.13.01,FALSE,FALSE,FALSE
+Acquired pulmonary arterial abnormalities,"Pulmonary arterial hypertension, Idiopathic (primary) pulmonary hypertension,",10.13.02,FALSE,FALSE,FALSE
+Acquired pulmonary arterial abnormalities,"Pulmonary arterial hypertension, Secondary pulmonary hypertension,",10.13.20,FALSE,FALSE,FALSE
+Acquired pulmonary arterial abnormalities,"Pulmonary arterial hypertension, Secondary pulmonary hypertension, Pulmonary hypertension due to congenital systemic-to-pulmonary shunt,",10.13.21,FALSE,FALSE,FALSE
+Acquired pulmonary arterial abnormalities,"Pulmonary vascular disease,",10.13.06,FALSE,FALSE,FALSE
+Acquired pulmonary arterial abnormalities,"Pulmonary vascular disease, Irreversible pulmonary vascular disease due to congenital heart disease (Eisenmenger Syndrome),",10.13.08,FALSE,FALSE,TRUE
+Acquired pulmonary arterial abnormalities,"Pulmonary embolism,",10.13.51,FALSE,FALSE,FALSE
+Acquired pulmonary arterial abnormalities,"Pulmonary oedema,",10.30.30,FALSE,FALSE,FALSE
+"Acquired systemic arterial, coronary and ductal abnormalities","Abnormality of aorta: acquired,",10.14.70,FALSE,FALSE,FALSE
+"Acquired systemic arterial, coronary and ductal abnormalities","Abnormality of aorta: acquired, Supravalvar aortic stenosis: acquired,",10.14.77,FALSE,FALSE,FALSE
+"Acquired systemic arterial, coronary and ductal abnormalities","Abnormality of aorta: acquired, Recoarctation of aorta,",10.14.72,FALSE,FALSE,FALSE
+"Acquired systemic arterial, coronary and ductal abnormalities","Abnormality of aorta: acquired, Ascending aorta dilation: acquired,",10.14.40,FALSE,FALSE,FALSE
+"Acquired systemic arterial, coronary and ductal abnormalities","Abnormality of aorta: acquired, Ascending aortopathy associated with conotruncal malformations,",10.14.95,FALSE,FALSE,FALSE
+"Acquired systemic arterial, coronary and ductal abnormalities","Abnormality of aorta: acquired, Aortic root dilation,",09.16.13,FALSE,FALSE,FALSE
+"Acquired systemic arterial, coronary and ductal abnormalities","Abnormality of aorta: acquired, Aortic dissection,",10.14.51,FALSE,FALSE,FALSE
+"Acquired systemic arterial, coronary and ductal abnormalities","Abnormality of aorta: acquired, Aortic dissection, Ascending aorta dissection & propagation beyond arch (DeBakey type I),",10.14.52,FALSE,FALSE,FALSE
+"Acquired systemic arterial, coronary and ductal abnormalities","Abnormality of aorta: acquired, Aortic dissection, Ascending aorta dissection not beyond arch (DeBakey type II/ Stanford type A),",10.14.53,FALSE,FALSE,FALSE
+"Acquired systemic arterial, coronary and ductal abnormalities","Abnormality of aorta: acquired, Aortic dissection, Descending aorta dissection & distal propagation (DeBakey type III/ Stanford type B),",10.14.54,FALSE,FALSE,FALSE
+"Acquired systemic arterial, coronary and ductal abnormalities","Abnormality of aorta: acquired, Aortic aneurysm,",10.14.50,FALSE,FALSE,FALSE
+"Acquired systemic arterial, coronary and ductal abnormalities","Abnormality of aorta: acquired, Aortic aneurysm, Ascending aorta aneurysm,",10.14.42,FALSE,FALSE,FALSE
+"Acquired systemic arterial, coronary and ductal abnormalities","Abnormality of aorta: acquired, Aortic aneurysm, Descending aorta aneurysm,",10.14.43,FALSE,FALSE,FALSE
+"Acquired systemic arterial, coronary and ductal abnormalities","Abnormality of aorta: acquired, Aortic aneurysm, Abdominal aorta aneurysm,",10.14.44,FALSE,FALSE,FALSE
+"Acquired systemic arterial, coronary and ductal abnormalities","Abnormality of aorta: acquired, Aortic aneurysm, Rupture of thoracic aortic aneurysm,",10.14.45,FALSE,FALSE,FALSE
+"Acquired systemic arterial, coronary and ductal abnormalities","Abnormality of aorta: acquired, Aortic aneurysm, Rupture of abdominal aortic aneurysm,",10.14.46,FALSE,FALSE,FALSE
+"Acquired systemic arterial, coronary and ductal abnormalities","Abnormality of aorta: acquired, Postprocedural aortic complication,",15.37.73,FALSE,FALSE,FALSE
+"Acquired systemic arterial, coronary and ductal abnormalities","Abnormality of aorta: acquired, Postprocedural ascending aorta complication,",15.36.01,FALSE,FALSE,FALSE
+"Acquired systemic arterial, coronary and ductal abnormalities","Abnormality of aorta: acquired, Postprocedural descending aorta complication,",15.37.01,FALSE,FALSE,FALSE
+"Acquired systemic arterial, coronary and ductal abnormalities","Abnormality of aorta: acquired, Residual aortic coarctation,",15.37.05,FALSE,FALSE,FALSE
+"Acquired systemic arterial, coronary and ductal abnormalities","Abnormality of aorta: acquired, Postprocedural aneurysm of aorta at coarctation site,",15.37.07,FALSE,FALSE,FALSE
+"Acquired systemic arterial, coronary and ductal abnormalities","Abnormality of aorta: acquired, Postprocedural aortic aneurysm,",15.37.80,FALSE,FALSE,FALSE
+"Acquired systemic arterial, coronary and ductal abnormalities","Postprocedural systemic arterial complication,",15.24.00,FALSE,FALSE,FALSE
+"Acquired systemic arterial, coronary and ductal abnormalities","Paradoxical arterial embolus,",10.14.74,FALSE,FALSE,FALSE
+"Acquired systemic arterial, coronary and ductal abnormalities","Systemic arteritis,",10.14.60,FALSE,FALSE,FALSE
+"Acquired systemic arterial, coronary and ductal abnormalities","Kawasaki disease,",10.09.01,FALSE,FALSE,FALSE
+"Acquired systemic arterial, coronary and ductal abnormalities","Kawasaki disease, Kawasaki disease without cardiac involvement,",10.09.08,FALSE,FALSE,FALSE
+"Acquired systemic arterial, coronary and ductal abnormalities","Kawasaki disease, Kawasaki disease with aneurysm(s) or dilated coronary vessels,",10.09.02,FALSE,FALSE,FALSE
+"Acquired systemic arterial, coronary and ductal abnormalities","Acquired coronary arterial disease,",10.09.10,FALSE,FALSE,FALSE
+"Acquired systemic arterial, coronary and ductal abnormalities","Acquired coronary arterial disease, Ischaemic heart disease,",10.09.30,FALSE,FALSE,FALSE
+"Acquired systemic arterial, coronary and ductal abnormalities","Acquired coronary arterial disease, Myocardial infarction,",10.18.00,FALSE,FALSE,FALSE
+"Acquired systemic arterial, coronary and ductal abnormalities","Acquired coronary arterial disease, Myocardial infarction, Acute myocardial infarction,",10.18.01,FALSE,FALSE,FALSE
+"Acquired systemic arterial, coronary and ductal abnormalities","Acquired coronary arterial disease, Myocardial infarction, Postmyocardial infarction complication,",10.18.24,FALSE,FALSE,FALSE
+"Acquired systemic arterial, coronary and ductal abnormalities","Acquired coronary arterial disease, Postprocedural coronary arterial complication,",15.41.00,FALSE,FALSE,FALSE
+"Acquired systemic arterial, coronary and ductal abnormalities","Acquired coronary arterial disease, Postprocedural coronary artery bypass graft (CABG) complication,",15.41.39,FALSE,FALSE,FALSE
+"Acquired systemic arterial, coronary and ductal abnormalities","Systemic hypertension,",10.14.01,FALSE,FALSE,FALSE
+"Acquired systemic arterial, coronary and ductal abnormalities","Systemic hypertension, Primary (essential) systemic hypertension,",10.14.02,FALSE,FALSE,FALSE
+"Acquired systemic arterial, coronary and ductal abnormalities","Systemic hypertension, Secondary systemic hypertension,",10.14.00,FALSE,FALSE,FALSE
+"Acquired systemic arterial, coronary and ductal abnormalities","Systemic hypertension, Secondary systemic hypertension, Systemic hypertension due to aortic arch obstruction,",10.14.04,FALSE,FALSE,FALSE
+"Acquired systemic arterial, coronary and ductal abnormalities","Arterial duct (ductus arteriosus) abnormality: acquired,",10.14.80,FALSE,FALSE,FALSE
+"Acquired systemic arterial, coronary and ductal abnormalities","Arterial duct (ductus arteriosus) abnormality: acquired, Postprocedural arterial duct complication,",15.39.01,FALSE,FALSE,FALSE
+"Acquired systemic arterial, coronary and ductal abnormalities","Arterial duct (ductus arteriosus) abnormality: acquired, Residual arterial duct (PDA) patency,",15.39.02,FALSE,FALSE,FALSE
+"Acquired systemic arterial, coronary and ductal abnormalities","Postprocedural systemic-to-pulmonary collateral artery complication,",15.39.50,FALSE,FALSE,FALSE
+"Acquired cardiac conduit-shunt, pericardial, post-transplant & miscellaneous abnormalities","Cardiac conduit complication,",15.55.00,FALSE,FALSE,FALSE
+"Acquired cardiac conduit-shunt, pericardial, post-transplant & miscellaneous abnormalities","Cardiac conduit complication, Cardiac conduit failure,",15.55.16,FALSE,FALSE,FALSE
+"Acquired cardiac conduit-shunt, pericardial, post-transplant & miscellaneous abnormalities","Systemic-to-pulmonary arterial shunt complication,",15.56.00,FALSE,FALSE,FALSE
+"Acquired cardiac conduit-shunt, pericardial, post-transplant & miscellaneous abnormalities","Systemic-to-pulmonary arterial shunt complication, Systemic-to-pulmonary arterial shunt partial obstruction,",15.56.01,FALSE,FALSE,FALSE
+"Acquired cardiac conduit-shunt, pericardial, post-transplant & miscellaneous abnormalities","Systemic-to-pulmonary arterial shunt complication, Systemic-to-pulmonary arterial shunt complete obstruction,",15.56.02,FALSE,FALSE,FALSE
+"Acquired cardiac conduit-shunt, pericardial, post-transplant & miscellaneous abnormalities","Systemic-to-pulmonary arterial shunt failure,",15.56.21,FALSE,FALSE,FALSE
+"Acquired cardiac conduit-shunt, pericardial, post-transplant & miscellaneous abnormalities","Pulmonary autograft failure,",15.55.24,FALSE,FALSE,FALSE
+"Acquired cardiac conduit-shunt, pericardial, post-transplant & miscellaneous abnormalities","Failed Fontan type circulation,",15.90.60,FALSE,FALSE,TRUE
+"Acquired cardiac conduit-shunt, pericardial, post-transplant & miscellaneous abnormalities","Pericardial abnormality: acquired,",10.08.29,FALSE,FALSE,FALSE
+"Acquired cardiac conduit-shunt, pericardial, post-transplant & miscellaneous abnormalities","Pericardial abnormality: acquired, Pericarditis,",10.08.00,FALSE,FALSE,FALSE
+"Acquired cardiac conduit-shunt, pericardial, post-transplant & miscellaneous abnormalities","Pericardial abnormality: acquired, Pericarditis, Constrictive pericarditis,",10.08.09,FALSE,FALSE,FALSE
+"Acquired cardiac conduit-shunt, pericardial, post-transplant & miscellaneous abnormalities","Pericardial abnormality: acquired, Pericardial effusion,",10.08.31,FALSE,FALSE,FALSE
+"Acquired cardiac conduit-shunt, pericardial, post-transplant & miscellaneous abnormalities","Pericardial abnormality: acquired, Pericardial effusion, Chylopericardium,",10.08.15,FALSE,FALSE,FALSE
+"Acquired cardiac conduit-shunt, pericardial, post-transplant & miscellaneous abnormalities","Pericardial abnormality: acquired, Pericardial effusion, Pericardial effusion requiring drainage,",15.83.00,FALSE,FALSE,FALSE
+"Acquired cardiac conduit-shunt, pericardial, post-transplant & miscellaneous abnormalities","Pericardial abnormality: acquired, Pericardial effusion, Cardiac tamponade,",10.08.13,FALSE,FALSE,FALSE
+"Acquired cardiac conduit-shunt, pericardial, post-transplant & miscellaneous abnormalities","Heart tumour,",10.03.01,FALSE,FALSE,FALSE
+"Acquired cardiac conduit-shunt, pericardial, post-transplant & miscellaneous abnormalities","Traumatic injury of heart,",10.90.01,FALSE,FALSE,FALSE
+"Acquired cardiac conduit-shunt, pericardial, post-transplant & miscellaneous abnormalities","Trauma: blunt,",10.90.41,FALSE,FALSE,FALSE
+"Acquired cardiac conduit-shunt, pericardial, post-transplant & miscellaneous abnormalities","Trauma: penetrating,",10.90.42,FALSE,FALSE,FALSE
+"Acquired cardiac conduit-shunt, pericardial, post-transplant & miscellaneous abnormalities","Complication after heart or lung transplant,",15.95.00,FALSE,FALSE,FALSE
+"Acquired cardiac conduit-shunt, pericardial, post-transplant & miscellaneous abnormalities","Complication after heart or lung transplant, Heart muscle disease in cardiac rejection,",10.07.42,FALSE,FALSE,FALSE
+"Acquired cardiac conduit-shunt, pericardial, post-transplant & miscellaneous abnormalities","Complication after heart or lung transplant, Cardiac transplant associated coronary allograft vasculopathy,",15.41.13,FALSE,FALSE,FALSE
+"Acquired cardiac conduit-shunt, pericardial, post-transplant & miscellaneous abnormalities","Complication after heart or lung transplant, Lung disease in lung transplant rejection,",15.95.66,FALSE,FALSE,FALSE
+"Acquired cardiac conduit-shunt, pericardial, post-transplant & miscellaneous abnormalities","Complication after heart or lung transplant, Post-lung transplant obliterative bronchiolitis,",15.95.64,FALSE,FALSE,FALSE
+"Acquired cardiac conduit-shunt, pericardial, post-transplant & miscellaneous abnormalities","Complication after heart or lung transplant, Lymphoproliferative disease following transplantation,",15.95.03,FALSE,FALSE,FALSE
+Diagnostic codes for rhythm and conduction disturbances,"Electrocardiographic (ECG) abnormality,",11.20.00,FALSE,FALSE,FALSE
+Diagnostic codes for rhythm and conduction disturbances,"Arrhythmia,",11.00.00,FALSE,FALSE,FALSE
+Diagnostic codes for rhythm and conduction disturbances,"Cardiac arrest,",11.00.21,FALSE,FALSE,FALSE
+Diagnostic codes for rhythm and conduction disturbances,"Sinus bradycardia,",11.02.04,FALSE,FALSE,FALSE
+Diagnostic codes for rhythm and conduction disturbances,"Vagal sinus bradycardia: bradycardia(s) of prematurity,",11.02.15,FALSE,FALSE,FALSE
+Diagnostic codes for rhythm and conduction disturbances,"Sinus tachycardia,",11.02.07,FALSE,FALSE,FALSE
+Diagnostic codes for rhythm and conduction disturbances,"Sudden Arrhythmic Death Syndrome (SADS),",11.00.11,FALSE,FALSE,FALSE
+Diagnostic codes for rhythm and conduction disturbances,"Supraventricular rhythm disturbance,",11.01.01,FALSE,FALSE,FALSE
+Diagnostic codes for rhythm and conduction disturbances,"Supraventricular rhythm disturbance, Supraventricular tachycardia,",11.01.00,FALSE,FALSE,FALSE
+Diagnostic codes for rhythm and conduction disturbances,"Supraventricular rhythm disturbance, Ectopic atrial tachycardia,",11.03.12,FALSE,FALSE,FALSE
+Diagnostic codes for rhythm and conduction disturbances,"Supraventricular rhythm disturbance, Multifocal atrial tachycardia (chaotic),",11.03.15,FALSE,FALSE,FALSE
+Diagnostic codes for rhythm and conduction disturbances,"Supraventricular rhythm disturbance, Premature atrial beats (complexes-contractions),",11.03.21,FALSE,FALSE,FALSE
+Diagnostic codes for rhythm and conduction disturbances,"Macroreentrant atrial tachycardia (including atrial flutter),",11.03.13,FALSE,FALSE,FALSE
+Diagnostic codes for rhythm and conduction disturbances,"Macroreentrant atrial tachycardia (including atrial flutter), Cavotricuspid isthmus dependent reentry atrial tachycardia: atrial flutter,",11.03.66,FALSE,FALSE,FALSE
+Diagnostic codes for rhythm and conduction disturbances,"Macroreentrant atrial tachycardia (including atrial flutter), Non-cavotricuspid isthmus dependent atrial tachycardia,",11.03.67,FALSE,FALSE,FALSE
+Diagnostic codes for rhythm and conduction disturbances,"Macroreentrant atrial tachycardia (including atrial flutter), Atrial flutter,",11.03.07,FALSE,FALSE,FALSE
+Diagnostic codes for rhythm and conduction disturbances,"Macroreentrant atrial tachycardia (including atrial flutter), Atrial fibrillation,",11.03.08,FALSE,FALSE,FALSE
+Diagnostic codes for rhythm and conduction disturbances,"Macroreentrant atrial tachycardia (including atrial flutter), Paroxysmal atrial tachycardia,",11.03.05,FALSE,FALSE,FALSE
+Diagnostic codes for rhythm and conduction disturbances,"Rhythm disturbance at level of AV junction,",11.04.00,FALSE,FALSE,FALSE
+Diagnostic codes for rhythm and conduction disturbances,"Rhythm disturbance at level of AV junction, Atrioventricular junctional (nodal) tachycardia,",11.04.07,FALSE,FALSE,FALSE
+Diagnostic codes for rhythm and conduction disturbances,"Rhythm disturbance at level of AV junction, Atrioventricular nodal reentry tachycardia (AVNRT),",11.04.11,FALSE,FALSE,FALSE
+Diagnostic codes for rhythm and conduction disturbances,"Rhythm disturbance at level of AV junction, Junctional ectopic tachycardia (His bundle),",11.04.42,FALSE,FALSE,FALSE
+Diagnostic codes for rhythm and conduction disturbances,"AV reciprocating (reentry) tachycardia (accessory pathway mediated),",11.07.29,FALSE,FALSE,FALSE
+Diagnostic codes for rhythm and conduction disturbances,"AV reciprocating (reentry) tachycardia (accessory pathway mediated), Manifest accessory pathway,",11.07.11,FALSE,FALSE,FALSE
+Diagnostic codes for rhythm and conduction disturbances,"AV reciprocating (reentry) tachycardia (accessory pathway mediated), AV reciprocating (reentry) tachycardia: manifest preexcitation in sinus rhythm (Wolff Parkinson White),",11.07.01,FALSE,FALSE,FALSE
+Diagnostic codes for rhythm and conduction disturbances,"AV reciprocating (reentry) tachycardia (accessory pathway mediated), Accessory pathway: retrograde conduction only (concealed: no preexcitation sinus rhythm),",11.07.06,FALSE,FALSE,FALSE
+Diagnostic codes for rhythm and conduction disturbances,"AV reciprocating (reentry) tachycardia (accessory pathway mediated), AV reciprocating (reentry) tachycardia: orthodromic,",11.07.22,FALSE,FALSE,FALSE
+Diagnostic codes for rhythm and conduction disturbances,"AV reciprocating (reentry) tachycardia (accessory pathway mediated), AV reentry (reciprocating) tachycardia: antidromic (typically wide QRS),",11.07.23,FALSE,FALSE,FALSE
+Diagnostic codes for rhythm and conduction disturbances,"AV reciprocating (reentry) tachycardia (accessory pathway mediated), AV reentry (reciprocating) tachycardia: orthodromic & antidromic,",11.07.28,FALSE,FALSE,FALSE
+Diagnostic codes for rhythm and conduction disturbances,"AV reciprocating (reentry) tachycardia (accessory pathway mediated), Permanent junctional reciprocating tachycardia (PJRT),",11.07.14,FALSE,FALSE,FALSE
+Diagnostic codes for rhythm and conduction disturbances,"AV reciprocating (reentry) tachycardia (accessory pathway mediated), Multiple accessory pathways,",11.07.26,FALSE,FALSE,FALSE
+Diagnostic codes for rhythm and conduction disturbances,"Ventricular rhythm disturbance,",11.05.00,FALSE,FALSE,FALSE
+Diagnostic codes for rhythm and conduction disturbances,"Ventricular tachycardia,",11.05.06,FALSE,FALSE,FALSE
+Diagnostic codes for rhythm and conduction disturbances,"Ventricular tachycardia, Non-sustained ventricular tachycardia,",11.05.50,FALSE,FALSE,FALSE
+Diagnostic codes for rhythm and conduction disturbances,"Ventricular tachycardia, Macroreentrant ventricular tachycardia,",11.05.57,FALSE,FALSE,FALSE
+Diagnostic codes for rhythm and conduction disturbances,"Ventricular tachycardia, Idiopathic fascicular ventricular tachycardia,",11.05.84,FALSE,FALSE,FALSE
+Diagnostic codes for rhythm and conduction disturbances,"Ventricular tachycardia, Focal ventricular tachycardia,",11.05.56,FALSE,FALSE,FALSE
+Diagnostic codes for rhythm and conduction disturbances,"Ventricular tachycardia, Ventricular flutter,",11.05.09,FALSE,FALSE,FALSE
+Diagnostic codes for rhythm and conduction disturbances,"Ventricular tachycardia, Ventricular fibrillation,",11.05.10,FALSE,FALSE,FALSE
+Diagnostic codes for rhythm and conduction disturbances,"Ventricular tachycardia, Premature ventricular beats (complexes-contractions),",11.05.21,FALSE,FALSE,FALSE
+Diagnostic codes for rhythm and conduction disturbances,"Conduction disturbance,",11.06.00,FALSE,FALSE,FALSE
+Diagnostic codes for rhythm and conduction disturbances,"Conduction disturbance, Sinoatrial block,",11.06.01,FALSE,FALSE,FALSE
+Diagnostic codes for rhythm and conduction disturbances,"Conduction disturbance, Sinus node dysfunction (including sick sinus),",11.02.03,FALSE,FALSE,FALSE
+Diagnostic codes for rhythm and conduction disturbances,"Conduction disturbance, 1st degree atrioventricular block,",11.06.02,FALSE,FALSE,FALSE
+Diagnostic codes for rhythm and conduction disturbances,"Conduction disturbance, 2nd degree atrioventricular block,",11.06.03,FALSE,FALSE,FALSE
+Diagnostic codes for rhythm and conduction disturbances,"Conduction disturbance, Complete atrioventricular block (3rd degree),",11.06.07,FALSE,FALSE,FALSE
+Diagnostic codes for rhythm and conduction disturbances,"Conduction disturbance, Complete atrioventricular block (3rd degree), Congenital complete heart block,",11.06.16,FALSE,FALSE,FALSE
+Diagnostic codes for rhythm and conduction disturbances,"Conduction disturbance, Complete atrioventricular block (3rd degree), Acquired complete atrioventricular block,",11.06.10,FALSE,FALSE,FALSE
+Diagnostic codes for rhythm and conduction disturbances,"Conduction disturbance, Complete right bundle branch block,",11.06.23,FALSE,FALSE,FALSE
+Diagnostic codes for rhythm and conduction disturbances,"Conduction disturbance, Complete left bundle branch block,",11.06.24,FALSE,FALSE,FALSE
+Diagnostic codes for rhythm and conduction disturbances,"Morphological abnormality of conduction system,",11.23.00,FALSE,FALSE,FALSE
+Diagnostic codes for rhythm and conduction disturbances,"Ion channelopathy,",11.12.00,FALSE,FALSE,FALSE
+Diagnostic codes for rhythm and conduction disturbances,"Ion channelopathy, Prolonged QT interval,",11.12.01,FALSE,FALSE,FALSE
+Diagnostic codes for rhythm and conduction disturbances,"Ion channelopathy, Long QT syndrome,",11.12.29,FALSE,FALSE,FALSE
+Diagnostic codes for rhythm and conduction disturbances,"Ion channelopathy, Catecholaminergic polymorphic ventricular tachycardia,",11.05.17,FALSE,FALSE,FALSE
+Diagnostic codes for rhythm and conduction disturbances,"Ion channelopathy, Brugada syndrome,",11.05.44,FALSE,FALSE,FALSE
+Diagnostic codes for rhythm and conduction disturbances,"Complication following arrhythmia related procedure,",15.51.00,FALSE,FALSE,FALSE
+Diagnostic codes for rhythm and conduction disturbances,"Pacemaker dysfunction-complication,,",11.11.01,FALSE,FALSE,FALSE
+Diagnostic codes for rhythm and conduction disturbances,"Pacemaker dysfunction-complication,, Pacemaker battery exhaustion: end of life (EOL),",11.11.03,FALSE,FALSE,FALSE
+Diagnostic codes for rhythm and conduction disturbances,"Pacemaker dysfunction-complication,, Pacemaker-Implantable cardioverter & defibrillator (ICD) loss of capture,",11.11.17,FALSE,FALSE,FALSE
+Diagnostic codes for rhythm and conduction disturbances,"Pacemaker dysfunction-complication,, Pacemaker dysfunction-complication necessitating replacement,",11.11.00,FALSE,FALSE,FALSE
+Diagnostic codes for rhythm and conduction disturbances,"Pacemaker dysfunction-complication,, Pacemaker (atrioventricular dyssynchrony) syndrome,",11.11.21,FALSE,FALSE,FALSE
+Diagnostic codes for rhythm and conduction disturbances,"Pacemaker-implantable cardioverter & defibrillator (ICD) lead dysfunction-complication,",11.11.40,FALSE,FALSE,FALSE
+Diagnostic codes for rhythm and conduction disturbances,"Pacemaker generator site local complication,",11.11.59,FALSE,FALSE,FALSE
+Diagnostic codes for rhythm and conduction disturbances,"Insertable electrocardiographic (ECG) loop recorder complication,",11.11.80,FALSE,FALSE,FALSE
+Diagnostic codes for rhythm and conduction disturbances,"Implantable cardioverter & defibrillator (ICD) dysfunction-complication,",11.11.60,FALSE,FALSE,FALSE
+Diagnostic codes for lung and thoracic disease,"Tracheobronchial malacia,",14.03.49,FALSE,FALSE,FALSE
+Diagnostic codes for lung and thoracic disease,"Tracheal stenosis,",16.10.01,FALSE,FALSE,FALSE
+Diagnostic codes for lung and thoracic disease,"Tracheal disease,",16.10.09,FALSE,FALSE,FALSE
+Diagnostic codes for lung and thoracic disease,"Thoracic outlet syndrome,",16.12.08,FALSE,FALSE,FALSE
+Diagnostic codes for lung and thoracic disease,"Lung disease,",16.03.05,FALSE,FALSE,FALSE
+Diagnostic codes for lung and thoracic disease,"Lung disease: benign,",16.03.01,FALSE,FALSE,FALSE
+Diagnostic codes for lung and thoracic disease,"Lung disease: malignant,",16.03.21,FALSE,FALSE,FALSE
+Diagnostic codes for lung and thoracic disease,"Airway disease,",16.09.00,FALSE,FALSE,FALSE
+Diagnostic codes for lung and thoracic disease,"Asthma,",16.03.10,FALSE,FALSE,FALSE
+Diagnostic codes for lung and thoracic disease,"Lower respiratory tract infection,",16.03.02,FALSE,FALSE,FALSE
+Diagnostic codes for lung and thoracic disease,"Traumatic injury of tracheobronchial tree or lungs,",10.90.24,FALSE,FALSE,FALSE
+Diagnostic codes for lung and thoracic disease,"Acquired bronchial disease,",16.08.00,FALSE,FALSE,FALSE
+Diagnostic codes for lung and thoracic disease,"Bronchial fistula,",16.02.00,FALSE,FALSE,FALSE
+Diagnostic codes for lung and thoracic disease,"Respiratory failure,",16.30.01,FALSE,FALSE,FALSE
+Diagnostic codes for lung and thoracic disease,"Pneumothorax,",16.01.01,FALSE,FALSE,FALSE
+Diagnostic codes for lung and thoracic disease,"Pleural effusion,",16.01.04,FALSE,FALSE,FALSE
+Diagnostic codes for lung and thoracic disease,"Chylothorax,",16.01.07,FALSE,FALSE,FALSE
+Diagnostic codes for lung and thoracic disease,"Empyema,",16.01.11,FALSE,FALSE,FALSE
+Diagnostic codes for lung and thoracic disease,"Pleural disease: benign,",16.01.21,FALSE,FALSE,FALSE
+Diagnostic codes for lung and thoracic disease,"Pleural disease: malignant,",16.01.22,FALSE,FALSE,FALSE
+Diagnostic codes for lung and thoracic disease,"Oesophageal disorder,",16.20.10,FALSE,FALSE,FALSE
+Diagnostic codes for lung and thoracic disease,"Oesophageal disease: benign,",16.20.01,FALSE,FALSE,FALSE
+Diagnostic codes for lung and thoracic disease,"Oesophageal disease: malignant,",16.20.02,FALSE,FALSE,FALSE
+Diagnostic codes for lung and thoracic disease,"Mediastinal disease,",16.05.13,FALSE,FALSE,FALSE
+Diagnostic codes for lung and thoracic disease,"Mediastinal disease: benign,",16.05.11,FALSE,FALSE,FALSE
+Diagnostic codes for lung and thoracic disease,"Mediastinal disease: malignant,",16.05.12,FALSE,FALSE,FALSE
+Diagnostic codes for lung and thoracic disease,"Sternal tumour: benign,",16.40.33,FALSE,FALSE,FALSE
+Diagnostic codes for lung and thoracic disease,"Sternal tumour: malignant,",16.40.34,FALSE,FALSE,FALSE
+Diagnostic codes for lung and thoracic disease,"Sternal tumour: metastatic,",16.40.35,FALSE,FALSE,FALSE
+Diagnostic codes for lung and thoracic disease,"Rib tumour: benign,",16.40.51,FALSE,FALSE,FALSE
+Diagnostic codes for lung and thoracic disease,"Rib tumour: malignant,",16.40.52,FALSE,FALSE,FALSE
+Diagnostic codes for lung and thoracic disease,"Rib tumour: metastatic,",16.40.53,FALSE,FALSE,FALSE
+Diagnostic codes for lung and thoracic disease,"Diaphragm disease,",16.15.09,FALSE,FALSE,FALSE
+Diagnostic codes for lung and thoracic disease,"Diaphragm disorder: acquired,",16.13.00,FALSE,FALSE,FALSE
+Diagnostic codes for lung and thoracic disease,"Diaphragm paralysis,",16.13.20,FALSE,FALSE,FALSE
+Diagnostic codes for lung and thoracic disease,"Musculoskeletal chest pain,",10.18.52,FALSE,FALSE,FALSE
+Diagnostic codes for symptoms and signs,"Symptom-sign of heart disease,",10.17.00,FALSE,FALSE,FALSE
+Diagnostic codes for symptoms and signs,"Symptom-sign of heart disease, Syncope,",10.40.01,FALSE,FALSE,FALSE
+Diagnostic codes for symptoms and signs,"Symptom-sign of heart disease, Cyanosis,",10.17.03,FALSE,FALSE,FALSE
+Diagnostic codes for symptoms and signs,"Symptom-sign of heart disease, Heart failure,",10.17.05,FALSE,FALSE,FALSE
+Diagnostic codes for symptoms and signs,"Symptom-sign of heart disease, Cyanotic spells,",10.17.12,FALSE,FALSE,FALSE
+Diagnostic codes for symptoms and signs,"Symptom-sign of heart disease, Palpitations,",10.17.13,FALSE,FALSE,FALSE
+Diagnostic codes for symptoms and signs,"Symptom-sign of heart disease, Chest pain,",10.12.42,FALSE,FALSE,FALSE
+Diagnostic codes for symptoms and signs,"Symptom-sign of heart disease, Failure to thrive,",10.12.39,FALSE,FALSE,FALSE
+Diagnostic codes for symptoms and signs,"Symptom-sign of heart disease, Hypotension,",10.40.30,FALSE,FALSE,FALSE
+Diagnostic codes for symptoms and signs,"Symptom-sign of heart disease, Angina pectoris,",10.12.51,FALSE,FALSE,FALSE
+Diagnostic codes for symptoms and signs,"Symptom-sign of heart disease, Shock,",10.17.23,FALSE,FALSE,FALSE
+Diagnostic codes for symptoms and signs,"Cardiac symptom without pathology,",10.17.09,FALSE,FALSE,FALSE
+Diagnostic codes for Preoperative Risk Factors,"No pre-procedural risk factors,",10.20.00,FALSE,FALSE,FALSE
+Diagnostic codes for Preoperative Risk Factors,"Preprocedural risk factor,",10.20.19,FALSE,FALSE,FALSE
+Diagnostic codes for Preoperative Risk Factors,"Weight less than 2.5 kg,",10.22.07,FALSE,FALSE,FALSE
+Diagnostic codes for Preoperative Risk Factors,"Obesity (Body Mass Index over 30),",14.03.59,FALSE,FALSE,FALSE
+Diagnostic codes for Preoperative Risk Factors,"Preprocedural arrhythmia,",10.20.03,FALSE,FALSE,FALSE
+Diagnostic codes for Preoperative Risk Factors,"Preprocedural complete atrioventricular block,",11.06.35,FALSE,FALSE,FALSE
+Diagnostic codes for Preoperative Risk Factors,"Preprocedural shock,",10.20.02,FALSE,FALSE,FALSE
+Diagnostic codes for Preoperative Risk Factors,"Preprocedural shock, Preprocedural shock at time of surgery (persistent),",10.20.31,FALSE,FALSE,FALSE
+Diagnostic codes for Preoperative Risk Factors,"Preprocedural shock, Preprocedural shock resolved by time of surgery,",10.20.32,FALSE,FALSE,FALSE
+Diagnostic codes for Preoperative Risk Factors,"Preprocedural cardiopulmonary resuscitation (less than 48 hours),",10.20.33,FALSE,FALSE,FALSE
+Diagnostic codes for Preoperative Risk Factors,"Preprocedural acidosis,",10.20.05,FALSE,FALSE,FALSE
+Diagnostic codes for Preoperative Risk Factors,"Preprocedural myocardial dysfunction,",10.20.34,FALSE,FALSE,FALSE
+Diagnostic codes for Preoperative Risk Factors,"Preprocedural pulmonary hypertension,",10.20.16,FALSE,FALSE,FALSE
+Diagnostic codes for Preoperative Risk Factors,"Preprocedural pulmonary hypertension (pulmonary pressure more than or equal to systemic pressure): echo data,",10.20.45,FALSE,FALSE,FALSE
+Diagnostic codes for Preoperative Risk Factors,"Preprocedural pulmonary hypertension (pulmonary pressure more than or equal to systemic pressure): catheter data,",10.20.46,FALSE,FALSE,FALSE
+Diagnostic codes for Preoperative Risk Factors,"Elevated lung resistance for biventricular repair (over 6 Wood units),",10.13.63,FALSE,FALSE,FALSE
+Diagnostic codes for Preoperative Risk Factors,"Elevated lung resistance for heart transplant (over 4 Wood units),",10.13.64,FALSE,FALSE,FALSE
+Diagnostic codes for Preoperative Risk Factors,"Elevated lung resistance for univentricular repair (over 2 Wood units),",10.13.65,FALSE,FALSE,FALSE
+Diagnostic codes for Preoperative Risk Factors,"Preprocedural respiratory syncytial virus (RSV) infection,",10.20.37,FALSE,FALSE,FALSE
+Diagnostic codes for Preoperative Risk Factors,"Preprocedural mechanical ventilatory support,",10.20.14,FALSE,FALSE,FALSE
+Diagnostic codes for Preoperative Risk Factors,"Preprocedural tracheostomy,",10.20.17,FALSE,FALSE,FALSE
+Diagnostic codes for Preoperative Risk Factors,"Preprocedural renal failure (creatinine over 1.5 times upper limit of normal for age),",10.20.07,FALSE,FALSE,FALSE
+Diagnostic codes for Preoperative Risk Factors,"Preprocedural renal failure (creatinine over 1.5 times upper limit of normal for age), Preprocedural renal failure requiring dialysis,",10.20.08,FALSE,FALSE,FALSE
+Diagnostic codes for Preoperative Risk Factors,"Preprocedural necrotising enterocolitis: treated medically,",10.20.38,FALSE,FALSE,FALSE
+Diagnostic codes for Preoperative Risk Factors,"Preprocedural necrotising enterocolitis: treated surgically,",10.20.39,FALSE,FALSE,FALSE
+Diagnostic codes for Preoperative Risk Factors,"Preprocedural coagulation disorder,",10.20.06,FALSE,FALSE,FALSE
+Diagnostic codes for Preoperative Risk Factors,"Preprocedural mechanical circulatory support,",10.20.15,FALSE,FALSE,FALSE
+Diagnostic codes for Preoperative Risk Factors,"Preprocedural septicaemia,",10.20.09,FALSE,FALSE,FALSE
+Diagnostic codes for Preoperative Risk Factors,"Preprocedural endocarditis,",10.06.65,FALSE,FALSE,FALSE
+Diagnostic codes for Preoperative Risk Factors,"Preprocedural neurological impairment,",10.20.12,FALSE,FALSE,FALSE
+Diagnostic codes for Preoperative Risk Factors,"Preprocedural seizures,",10.20.18,FALSE,FALSE,FALSE
+Diagnostic codes for Preoperative Risk Factors,"Preprocedural cerebral abnormality on imaging,",10.20.13,FALSE,FALSE,FALSE
+Diagnostic codes for Preoperative Risk Factors,"Diabetes mellitus,",14.03.90,FALSE,FALSE,FALSE
+Diagnostic codes for Preoperative Risk Factors,"Diabetes mellitus, Diabetes mellitus: requiring insulin,",14.04.94,FALSE,FALSE,FALSE
+Diagnostic codes for Preoperative Risk Factors,"Diabetes mellitus, Diabetes mellitus: on oral therapy,",14.04.95,FALSE,FALSE,FALSE
+Diagnostic codes for Preoperative Risk Factors,"Diabetes mellitus, Diabetes mellitus: managed with diet alone,",14.04.96,FALSE,FALSE,FALSE
+Diagnostic codes for Preoperative Risk Factors,"Hypothyroidism,",14.03.52,FALSE,FALSE,FALSE
+Diagnostic codes for Preoperative Risk Factors,"Hyperthyroidism,",14.03.75,FALSE,FALSE,FALSE
+Diagnostic codes for Preoperative Risk Factors,"Smoking: tobacco use,",14.04.70,FALSE,FALSE,FALSE
+Diagnostic codes for Preoperative Risk Factors,"Personal history of ischaemic heart disease,",10.18.48,FALSE,FALSE,FALSE
+Fetal Specific Short List Codes,"Fetal abnormality,",14.10.01,FALSE,FALSE,FALSE
+Fetal Specific Short List Codes,"Fetal abnormality, Increased nuchal thickness,",14.10.12,FALSE,FALSE,FALSE
+Fetal Specific Short List Codes,"Fetal abnormality, Intrauterine growth restriction (retardation),",14.10.34,FALSE,FALSE,FALSE
+Fetal Specific Short List Codes,"Fetal abnormality, Fetal fluid retention,",14.12.20,FALSE,FALSE,FALSE
+Fetal Specific Short List Codes,"Fetal abnormality, Fetal hydrops,",14.10.02,FALSE,FALSE,FALSE
+Fetal Specific Short List Codes,"Fetal abnormality, Fetal heart failure,",14.10.98,FALSE,FALSE,FALSE
+Fetal Specific Short List Codes,"Fetal abnormality, Fetal heart failure due to extracardiac disease,",14.10.99,FALSE,FALSE,FALSE
+Fetal Specific Short List Codes,"Fetal abnormality, Twin-to-twin transfusion syndrome,",14.10.11,FALSE,FALSE,FALSE
+Fetal Specific Short List Codes,"Fetal abnormality, Fetal arrhythmia,",14.10.06,FALSE,FALSE,FALSE
+Fetal Specific Short List Codes,"Fetal abnormality, Fetal cardiomegaly,",14.10.95,FALSE,FALSE,FALSE
+Fetal Specific Short List Codes,"Abnormal fetal Cardiovascular Profile Score (Huhta),",14.13.52,FALSE,FALSE,FALSE
+Fetal Specific Short List Codes,"Fetal infection,",14.05.41,FALSE,FALSE,FALSE
+Fetal Specific Short List Codes,"Fetal cardiac abnormality not detected,",14.10.00,FALSE,FALSE,FALSE
+Fetal Specific Short List Codes,"Fetal echocardiographic examination,",13.01.01,FALSE,FALSE,FALSE
+Fetal Specific Short List Codes,"Fetal echocardiographic examination, Satisfactory fetal cardiac images,",13.01.89,FALSE,FALSE,FALSE
+Fetal Specific Short List Codes,"Fetal echocardiographic examination, Inadequate fetal cardiac images,",13.01.90,FALSE,FALSE,FALSE
+Fetal Specific Short List Codes,"Fetal echocardiographic examination, Transabdominal fetal echocardiographic examination,",13.01.25,FALSE,FALSE,FALSE
+Fetal Specific Short List Codes,"Fetal echocardiographic examination, Transvaginal fetal echocardiographic examination,",13.01.26,FALSE,FALSE,FALSE
+Fetal Specific Short List Codes,"Fetal echocardiographic abnormality,",14.10.25,FALSE,FALSE,FALSE
+Fetal Specific Short List Codes,"Fetal echocardiographic abnormality, Fetal structural heart abnormality,",14.10.60,FALSE,FALSE,FALSE
+Fetal Specific Short List Codes,"Fetal echocardiographic abnormality, Fetal echogenic focus ('golf ball'),",14.10.08,FALSE,FALSE,FALSE
+Fetal Specific Short List Codes,"Fetal echocardiographic abnormality, Fetal venous Doppler flow(s) abnormal for gestational age,",14.10.26,FALSE,FALSE,FALSE
+Fetal Specific Short List Codes,"Fetal echocardiographic abnormality, Fetal unexplained right heart dominance,",14.10.07,FALSE,FALSE,FALSE
+Fetal Specific Short List Codes,"Fetal echocardiographic abnormality, Fetal unexplained left heart dominance,",14.10.45,FALSE,FALSE,FALSE
+Fetal Specific Short List Codes,"Fetal echocardiographic abnormality, Fetal abnormal 4 chamber view,",14.10.52,FALSE,FALSE,FALSE
+Fetal Specific Short List Codes,"Fetal echocardiographic abnormality, Fetal abnormal great arterial view,",14.10.53,FALSE,FALSE,FALSE
+Fetal Specific Short List Codes,"Fetal echocardiographic abnormality, Fetal arterial Doppler flow(s) abnormal for gestational age,",14.11.40,FALSE,FALSE,FALSE
+Fetal Specific Short List Codes,"Fetal echocardiographic abnormality, Fetal aortic arch flow abnormal for gestational age,",14.11.41,FALSE,FALSE,FALSE
+Fetal Specific Short List Codes,"Fetal echocardiographic abnormality, Fetal reversal of aortic arch blood flow for gestational age,",14.11.42,FALSE,FALSE,FALSE
+Fetal Specific Short List Codes,"Fetal echocardiographic abnormality, Fetal ductal arch flow abnormal for gestational age,",14.11.43,FALSE,FALSE,FALSE
+Fetal Specific Short List Codes,"Fetal echocardiographic abnormality, Fetal reversal of ductal arch blood flow for gestational age,",14.11.44,FALSE,FALSE,FALSE
+Fetal Specific Short List Codes,"Fetal failure of right ventricular growth,",14.10.90,FALSE,FALSE,FALSE
+Fetal Specific Short List Codes,"Fetal progression of right ventricular outflow tract obstruction,",14.10.27,FALSE,FALSE,FALSE
+Fetal Specific Short List Codes,"Fetal failure of left ventricular growth,",14.10.91,FALSE,FALSE,FALSE
+Fetal Specific Short List Codes,"Fetal progression of left ventricular outflow tract obstruction,",14.10.28,FALSE,FALSE,FALSE
+Fetal Specific Short List Codes,"Fetal heart muscle abnormality,",14.11.80,FALSE,FALSE,FALSE
+Fetal Specific Short List Codes,"Fetal cardiomyopathy,",14.11.81,FALSE,FALSE,FALSE
+Fetal Specific Short List Codes,"Fetal ventricular dysfunction,",14.11.87,FALSE,FALSE,FALSE
+ERROR,Imported diagnosis not matching EPCC. Requires manual intervention.,ERROR,FALSE,FALSE,FALSE
