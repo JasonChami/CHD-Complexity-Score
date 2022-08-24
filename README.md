@@ -2,6 +2,21 @@
 
 An algorithm for scoring the complexity of a congenital heart disease patient's diagnosis based on the ESC 2020 guidelines (<https://doi.org/10.1093/eurheartj/ehaa554>)
 
+Copyright (C) 2022  Calum Nicholson
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <https://www.gnu.org/licenses/>.
+
 ## Contents
 
 -   **Diagnosis_Complexity_Reference_Table_20210723.csv** - contained the expert provided complexity score for each EPCC diagnosis code used in the CHAANZ CHD Registry. Complexity scores were assigned by CHD clinicians based on ESC guidelines or expert knowledge where necessary.
